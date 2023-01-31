@@ -1,0 +1,6 @@
+public
+*.swp
+.vimsess
+*/.vimsess
+themes/airspace-hugo
+.hugo_build.lock
