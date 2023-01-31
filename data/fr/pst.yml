@@ -1,0 +1,73 @@
+################################ pricing ################################
+pricing:
+  enable : true
+  summary : "A partir de votre 2ème année d'étude à l'ESIEA, vous devrez, chaque année choisir et réaliser un **Projet Scientifique et Technique** (souvent abrégé **PST**). Nous proposons donc de nombreux **PST** que vous pouvez décider de rejoindre.
+
+
+  **Air ESIEA** porte ces **PST** financièrement et vous suivra tout au long de l'année. Un membre expérimenté de l'association sera désigné comme votre suiveur et il pourra répondre à la moindre de vos questions en plus de gérer une partie des détails administratifs. 
+
+
+  **Attention :** le but des **PST** est d'acquérir des compétences techniques et de réaliser un projet d'ingénieur. C'est le genre de projet que vous pourrez mettre sur votre CV après complétion. N'hésitez pas à postuler, même si vous doutez d'avoir les compétences requises, tant que vous êtes **motivés** et que le projet vous plait.
+
+
+  __Ne vous autocensurez pas !__"
+
+  pricing_table:
+    - name : "PST Icare - Banc de test"
+      content : "Concevez et réalisez un dispositif permettant d'effectuer des mesures précises sur de véritables moteurs fusées développés par les étudiants."
+      link : "2022-2023/icare"
+      background: "../images/pst/2022-2023/Ikhar.png"
+      services:
+        - De la 3ème à la 4ème année
+        - Un des seuls projets français de son genre
+        - Premier prix PST 2021-2022 !
+        
+    - name : "PST Can'Sat"
+      content : "Développez et construisez votre propre microsatellite de la taille d'une canette de soda et participez au concours Can'Sat France !"
+      link : "2022-2023/cansat"
+      background: "../images/pst/2022-2023/Khan_Satt.png"
+      services:
+        - De la 2ème à la 5ème année
+        - Abordez l'électronique, un défi \"de taille\"
+        - Bénéficiez du suivi de membres expérimentés
+
+    - name : "PST Minifusée"
+      content : "Construisez votre propre minifusée et faites la voler lors de la campagne de lancement nationale organisée par le CNES !"
+      link : "2022-2023/minif"
+      background: "../images/pst/2022-2023/fusee.png"
+      services:
+        - De la 2ème à la 5ème année
+        - Construisez une vraie fusée !
+        - Familiarisez-vous avec l'embarqué
+
+    - name : "PST L'Abbé Réseau"
+      content : "Passionné de terroir et ferru de réseau ? Transformez une baie réseau en cave d'affinage de charcuterie / fromage programmable !"
+      link : "2022-2023/abbé_réseau"
+      background: "../images/pst/2022-2023/Le_saint_Vergeron.png"
+      services:
+        - De la 2ème à la 3e année
+        - Bonne introduction aux asservissements
+        - Le [**terroir**](https://youtu.be/n0jyLUz1YJg?t=33)
+
+    - name : "PST Drone Autonome"
+      content : "Participez au concours [DroneLoad](https://www.planete-sciences.org/espace/Concours-DroneLoad/Concours) organisé par Safran et Planète Sciences avec votre drone autonome"
+      link : "2022-2023/droneload"
+      background: "../images/pst/2022-2023/wehrner_von_draun.png"
+      services:
+        - 4ème et 5ème année (Cap Projet)
+        - Combinez systèmes embarqués et IA !
+        - Bénéficiez du suivi du laboratoire d'IA de l'école !
+
+    - name : "PST Drone Haute Altitude"
+      content : "Envie d'un drone qui se démarque ? Développez un drone capable d'emporter de lourdes charges utiles à haute altitude !"
+      link : "2022-2023/dha"
+      background: "../images/pst/2022-2023/dha.png"
+      services:
+        - De la 3e à la 5ème année
+        - Asservissement, conception et optimisation
+        - Bonne introduction à la recherche
+
+############################# call to action #################################
+cta:
+  enable : false
+  # call to action content comes from "data/*/homepage.yml"

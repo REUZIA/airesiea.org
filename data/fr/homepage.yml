@@ -1,0 +1,111 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  bg_overlay : true
+  title : "L'association aérospatiale du Groupe ESIEA"
+  content : "Fusées expérimentales, drones, aérospatial, vulgarisation, astronomie...
+
+
+  Mais surtout, des promotions d'élèves ingénieurs passionnés depuis 1986 !"
+  button:
+    enable : enable
+    label : "Rejoignez-nous !"
+    link : "https://www.helloasso.com/associations/association-aerospatiale-air-esiea/adhesions/adhesion-a-air-esiea"
+
+############################# About #################################
+about:
+  enable : true
+  title : "Qui sommes-nous ?"
+  description : "Fondée en 1986, Air ESIEA est la plus ancienne association technique du Groupe ESIEA, et la 2e plus ancienne association aérospatiale étudiante française."
+  content : "Animés d'une passion commune pour les disciplines techniques et la science (aérospatial, astronomie ou aéromodélisme), les membres d'Air ESIEA constituent une communauté soudée d'étudiants et d'alumni qui oeuvrent dans une multitude de domaines avec des activités créatrices de vocations et d'ouverture. 
+
+
+Tous les étudiants du Groupe ESIEA peuvent rejoindre l'association, s'associer aux projets existants, ou même en créer de nouveaux. Nous avons toujours eu la conviction qu'un étudiant utile et compétent est un étudiant qui va plus loin, et c'est pourquoi trois points sont restés au coeur de notre démarche depuis plus de 35 ans : faire, apprendre et innover. "
+  image : "images/qui-sommes-nous.jpg"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : false
+  bg_image : "images/fusée-rampe.jpg"
+  title : "LE VOYAGE EST TOUT AUSSI IMPORTANT QUE LA DESTINATION"
+  content : "
+  C'est pourquoi nous avons pris l'habitude de documenter nos avancées sous forme d'articles sur la partie Blog du site.
+
+
+  De cette manière, la connaissance restera à disposition de nos nouveaux membres... mais elle est aussi partagée avec quiconque veut suivre nos aventures de près.
+  "
+  button:
+    enable : true
+    label : "Voir les articles sur le Blog"
+    link : "blog"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################# Funfacts ###############################
+funfacts:
+  enable : true
+  title : "Air ESIEA : chiffres et témoignages"
+  description : ""
+  funfact_item:
+    # funfacts item loop
+    - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Membres"
+      count : "31"
+      
+    # funfacts item loop
+    - icon : "ion-trophy" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lancements de fusée"
+      count : "24"
+      
+    # funfacts item loop
+    - icon : "ion-social-euro-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Projets soutenus par le CNES"
+      count : "5"
+      
+    # funfacts item loop
+    - icon : "ion-android-calendar" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Années d'activité"
+      count : "37"
+
+  testimonial_slider:
+    # testimonial item loop
+    - name : "Jérôme Da Rugna"
+      image : "images/profile_pics/jerome_da_rugna.jpg"
+      designation : "Directeur de la Pédagogie et de la Recherche Groupe ESIEA"
+      content : "Les connaissances sont importantes, mais ce qui compte, c'est ce que vous en faites !"
+    - name : "Jean-Marc Loeser"
+      image : "images/profile_pics/jean-marc_loeser.jpg"
+      designation : "Directeur du Développement et des Relations Entreprises"
+      content : "Bonjour ! C'est Jean-Marc Loeser !"
+    - name : "Sophie Poirier"
+      image : "images/profile_pics/sophie_poirier.jpg"
+      designation : "Responsable de la vie étudiante et associative"
+      content : "Depuis que je suis responsable de la vie associative, Air ESIEA sont les seuls qui ont apporté des projets dignes de ce nom"
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/Pare_Tonerre.jpg"
+  title : "Partenaires ?"
+  content : "En tant qu'association loi 1901, nous dépendons majoritairement du soutien de nos membres et d'entités tierces. Si vous souhaitez sponsoriser l'association ou un de ses projets, il est possible de prendre contact avec notre équipe sur la page dédiée."
+  button:
+    enable : true
+    label : "Que pouvons-nous vous apporter ?"
+    link : "nous_soutenir"
+
+cta2:
+  enable : true
+  bg_image : "images/cta_bannière_ksp.jpg"
+  title : "Ne passez-pas à côté d'une belle aventure."
+  content : "Que vous soyez le représentant d'une entreprise ou un particulier, n'hésitez pas à nous contacter via notre formulaire. Nos équipes vous répondront avec plaisir dans les plus brefs délais."
+  button:
+    enable : true
+    label : "Contactez-nous"
+    link : "contact"

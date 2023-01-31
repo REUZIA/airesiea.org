@@ -1,0 +1,39 @@
+################################ pricing ################################
+pricing:
+  enable : true
+  pricing_table:
+    # pricing table loop
+    - name : "BRONZE"
+      price: "100€"
+      content : "Offrez-vous une communication sponsorisée à un public ciblé grâce à nos réseaux sociaux"
+      link : "#"
+      services:
+        - Posts sur FB
+        - Posts sur Instagram
+        - Posts sur LinkedIn
+        - Emails aux étudiants
+        
+    # pricing table loop
+    - name : "SILVER"
+      price: "1000€"
+      content : "Faites décoller votre logo vers les cieux sur nos fusées lors de nos campagnes de tir !"
+      link : "#"
+      services:
+        - Tous les avantages de l'offre Bronze
+        - Logo sur le corps d'une de nos fusées
+        - Promotion sur nos stands lors des événements (école, campagne)
+
+    # pricing table loop
+    - name : "GOLD"
+      price: "5000€"
+      content : "Une fusée à votre nom, à vos couleurs, et une place pour votre représenter votre entreprise lors de nos événements."
+      link : "#"
+      services:
+        - Tous les avantages Bronze & Silver
+        - Fusée entièrement personnalisable
+        - Prises de parole lors de nos événements
+        
+############################# call to action #################################
+cta:
+  enable : true
+  # call to action content comes from "data/*/homepage.yml"
