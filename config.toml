@@ -233,4 +233,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Air ESIEA - Association Aérospatiale depuis 1986 - Licence CC BY 3.0 (le dépôt Git du site est accessible [ici](http://git.skylab.tk/AirESIEA/airesiea.fr))"
+copyright = "Air ESIEA - Association Aérospatiale depuis 1986"
