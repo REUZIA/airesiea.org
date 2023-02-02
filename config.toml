@@ -232,5 +232,5 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 home = "Accueil"
-# copyright TEST2
+# copyright TEST3
 copyright = "Air ESIEA - Association Aérospatiale depuis 1986"
