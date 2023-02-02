@@ -223,7 +223,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Air ESIEA - Aerospace Student Association since 1986 - CC BY 3.0 License (Git repo available [here](http://git.skylab.tk/AirESIEA/airesiea.fr))"
+copyright = "Air ESIEA - Aerospace Student Association since 1986"
 
 ################################ France Language ########################
 [Languages.fr]
