@@ -2,9 +2,9 @@
 title: "Easy Composites "
 description: "Fournisseur de matériaux composites avancés"
 draft: false
-image : "images/partenaires/easy-composites-logo-curves.jpg"
-bg_image: "images/featue-bg.jpg"
-category: "Gold"
+image : "images/partenaires/Easy_Composites/easy-composites-logo-curves.png"
+bg_image: "images/partenaires/Easy_Composites/LeFond.png"
+category: "Bronze"
 information:
   - label : "Partenariat"
     info : "Bronze"
@@ -14,30 +14,10 @@ information:
     info : "février 2023"
 ---
 
-## Des Partenaires Historiques
-Partenaires de la première heure, les écoles du groupe ESIEA nous apportent
-depuis 1986 un soutien indéfectible, matériel comme humain. Notre dernière
-entreprise est la création du fablab de l'ESIEA : l'OpenLab.
+## A propos d'Easy Composites
+Easy Composites Ltd est un fournisseur de premier plan de matériaux composites avancés destinés à des particuliers, des entreprises et des institutions éducatives. Leur vaste sélection de matériaux va des composites courants aux matériaux plus avancés difficiles à trouver, tous provenant de fabricants de renom à travers le monde. De plus, leur sélection complète d'outils et d'équipements garantit que les technologies telles que le moulage sous vide, l'infusion de résine, le pré-imprégné, l'usinage numérique et le prototypage rapide soient aussi accessibles et réalisables que possible.
 
-> La mission du groupe ESIEA est de former des hommes et des femmes capables de
-> faire un usage pertinent des nouvelles technologies
+## Leur philosophie
 
-L’ESIEA a été créée en 1958 par un ingénieur visionnaire et pédagogue, Maurice
-Lafargue. Dès le début il souhaitait développer une pédagogie de la réussite
-pour former des ingénieurs généralistes et polyvalents. Près de 60 ans plus
-tard, l’ESIEA n’a jamais cessé d’innover. Son histoire est ponctuée de succès,
-de prises de risques devenues des références. Il nous a fallu bousculer
-certaines logiques, remettre en cause certains stéréotypes et bouleverser des
-règles bien établies.
-
-## Le soutien du Groupe ESIEA
-
-Depuis 1986, le Groupe ESIEA offre à notre association un soutien indéfectible.
-En plus de nous fournir des locaux et sa formation, le Groupe soutient aussi
-nos projets sur les plans pédagogiques et financiers.
-Grâce à ce soutien, nous avons pu participer aux campagnes C'Space presque
-toutes les années depuis plus de 35 ans, et aussi participer à la première
-d'édition de l'European Rocketry Challenge au Portugal.
-Forts de nos expériences, l'échelle de nos projets nous pousse cependant
-aujourd'hui à diversifier nos sources de financement, et à chercher des
-soutiens supplémentaires issus du monde des grandes entreprises.
+L'équipe d'Easy Composites est passionnée par les composites avancés et ce qu'ils peuvent permettre aux gens de réaliser avec ceux ci. Ils oeuvrent pour le partage des connaissances, pas à leur rétention, et travaillent sans relâche pour tester, comprendre et perfectionner de nouveaux processus et techniques qu'ils peuvent ensuite partager via leur boutiques, guides, tutoriels vidéo et leur forum. 
+>Pour plus d'informations, une formation en ligne gratuite en matière de composites ou pour acheter des produits, veuillez visiter [Leur site](https://www.easycomposites.eu/) ou les appeller au 01782 454499.
