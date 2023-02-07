@@ -20,4 +20,4 @@ Easy Composites Ltd est un fournisseur de premier plan de matériaux composites 
 ## Leur philosophie
 
 L'équipe d'Easy Composites est passionnée par les composites avancés et ce qu'ils peuvent permettre aux gens de réaliser avec ceux ci. Ils oeuvrent pour le partage des connaissances, pas à leur rétention, et travaillent sans relâche pour tester, comprendre et perfectionner de nouveaux processus et techniques qu'ils peuvent ensuite partager via leur boutiques, guides, tutoriels vidéo et leur forum. 
->Pour plus d'informations, une formation en ligne gratuite en matière de composites ou pour acheter des produits, veuillez visiter [leur site](https://www.easycomposites.eu/) ou les appeller au 01782 454499.
+>Pour plus d'informations, une formation en ligne gratuite en matière de composites ou pour acheter des produits, veuillez visiter [leur site](https://www.easycomposites.eu/) ou les appeler au 01782 454499.

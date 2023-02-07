@@ -1,6 +1,6 @@
 ---
 title: "Drone Autonome"
-description: "Une nouvelle manière de tester nos moteurs-fusées développés en interne"
+description: "Notre participation au concours Droneload et Taxi Driver 2024!"
 draft: false
 image : "images/projets/icare-banc_de_test/thumbnail.png"
 bg_image: "images/projets/icare-banc_de_test/bg.png"
