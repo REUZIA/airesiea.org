@@ -24,7 +24,7 @@ entreprise est la création du fablab de l'ESIEA : l'OpenLab.
 
 L’ESIEA a été créée en 1958 par un ingénieur visionnaire et pédagogue, Maurice
 Lafargue. Dès le début il souhaitait développer une pédagogie de la réussite
-pour former des ingénieurs généralistes et polyvalents. Près de 60 ans plus
+pour former des ingénieurs  et polyvalents. Près de 60 ans plus
 tard, l’ESIEA n’a jamais cessé d’innover. Son histoire est ponctuée de succès,
 de prises de risques devenues des références. Il nous a fallu bousculer
 certaines logiques, remettre en cause certains stéréotypes et bouleverser des
