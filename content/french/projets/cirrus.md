@@ -20,17 +20,11 @@ information:
     info : "Gabriel CAL-ADELAÏDE"
 ---
 
-## [PST] Icare -- Banc de test
+## [Project] CIRRUS -- Cirrus
 
-Pour faire des moteurs fusées performants et sûrs, encore faut-il pouvoir les
-tester ! C’est pourquoi en 2022, nous avons confié la réalisation d’un banc de
-test à une équipe de PST de 2A.
-
-> Faire des moteurs fusées c’est bien, éviter d’en mourir c’est mieux !
-
-L’équipe devra relever un certain nombre de défis techniques issus d’un cahier
-des charges bien précis. Le banc de test doit pouvoir être amélioré d’année en
-année par une nouvelle équipe lors des PST. Il doit permettre différentes
-mesures telles que la température de combustion, le poids du moteur, la quantité
-d’ergols consommés et bien évidemment la poussée, jusqu’à un maximum de 10kN
-(environ 1 tonne force). 
+Voici Cirrus, la première fusée sonde du programme du même nom. 
+Aujourd’hui encore en développement,
+elle disposera d’une structure en composite de fibre de carbone et d’un parapente développés par notre équipe et devra mener à bien nos objectifs.
+En effet,
+Cirrus sera capable d’atteindre une apogée de 3 km et de ré-atterrir de façon autonome dans une zone optimale ;
+tout cela dans une enveloppe budgétaire restreinte.
