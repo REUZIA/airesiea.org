@@ -57,7 +57,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Membres"
-      count : "31"
+      count : "37"
       
     # funfacts item loop
     - icon : "ion-trophy" #ionicon pack v2 : https://ionicons.com/v2/
