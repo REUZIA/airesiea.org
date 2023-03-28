@@ -1,6 +1,6 @@
 ---
 title: "Drone Autonome"
-description: "Notre participation au concours Droneload et Taxi Driver 2024!"
+description: "Notre participation au concours Droneload et Taxi Driver 2024 !"
 draft: false
 image : "images/projets/icare-banc_de_test/thumbnail.png"
 bg_image: "images/projets/icare-banc_de_test/bg.png"
@@ -9,15 +9,13 @@ information:
   - label : "Date de début"
     info : "Octobre 2021"
   - label : "Equipe"
-    info : "Anatole BOUDARD"
+    info : "Thomas Archambeau"
   - label : ""
-    info : "Yeliz BELPINAR"
+    info : "Cyril Devalet"
   - label : ""
-    info : "Jérôme BOUZAID"
+    info : "Rémy Guillaume"
   - label : ""
-    info : "Hugo CARDIN"
-  - label : ""
-    info : "Gabriel CAL-ADELAÏDE"
+    info : "Thomas Neret"
 ---
 
 ## [CAP-PROJET] DRONELOAD 
