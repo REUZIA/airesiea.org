@@ -39,8 +39,8 @@ Nous sommes convaincus qu'il est essentiel de transformer l'impossible en possib
 
 
 ## Les avantages d'RS 
->Plus de 700 000 produits en stock
->2500 grandes marques
->Livraison le lendemain
->Aucune quantité minimale de commande
->Service personnalisé et assistance technique en plus de la vente en ligne
+- Plus de 700 000 produits en stock
+- 2500 grandes marques
+- Livraison le lendemain
+- Aucune quantité minimale de commande
+- Service personnalisé et assistance technique en plus de la vente en ligne
