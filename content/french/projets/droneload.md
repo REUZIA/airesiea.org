@@ -2,8 +2,8 @@
 title: "Drone Autonome"
 description: "Notre participation au concours Droneload et Taxi Driver 2024 !"
 draft: false
-image : "images/projets/icare-banc_de_test/thumbnail.png"
-bg_image: "images/projets/icare-banc_de_test/bg.png"
+image : "images/projets/droneload/thumbnail.png"
+bg_image: "images/projets/droneload/bg.png"
 category: "Icare"
 information:
   - label : "Date de début"
