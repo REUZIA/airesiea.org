@@ -1,9 +1,9 @@
 ---
 title: "Fusée sonde Cirrus"
-description: "Notre nouvelle gamme de fusée sonde"
+description: "La première fusée de la gamme CIRRUS"
 draft: false
-image : "images/projets/icare-banc_de_test/thumbnail.png"
-bg_image: "images/projets/icare-banc_de_test/bg.png"
+image : "images/projets/cirrus/thumbnail.png"
+bg_image: "images/projets/cirrus/bg.png"
 category: "Cirrus"
 information:
   - label : "Date de début"
@@ -18,6 +18,8 @@ information:
     info : "Hugo CARDIN"
   - label : ""
     info : "Julien ZHENG"
+  - label : ""
+    info : "Charles PILON"
 ---
 
 ## [Projet] CIRRUS -- La fusée sonde
