@@ -2,7 +2,7 @@
 title: "Pajanus"
 description: "Notre participation au C'space 2022 !"
 draft: false
-image : "![](../../../static/images/projets/Pajanus/pajanus.PNG)"
+image : "images/projets/Pajanus/pajanus.png"
 bg_image: "images/projets/Pajanus/pajanus.png"
 category: "Mini-fusée"
 information:
