@@ -2,8 +2,8 @@
 title: "Sagittarius"
 description: "Notre participation au C'space 2019 !"
 draft: false
-image : "images/projets/sagittarius/sag2.jpg"
-bg_image: "images/projets/sagittarius/sa1.jpg"
+image : "images/projets/sagittarius/sag2.png"
+bg_image: "images/projets/sagittarius/sa1.png"
 category: "Mini-fusée"
 information:
   - label : "Date de début"
