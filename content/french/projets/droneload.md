@@ -4,7 +4,7 @@ description: "Notre participation au concours Droneload et Taxi Driver 2024 !"
 draft: false
 image : "images/projets/droneload/thumbnail.png"
 bg_image: "images/projets/droneload/bg.png"
-category: "Icare"
+category: "Drones"
 information:
   - label : "Date de début"
     info : "Octobre 2021"
