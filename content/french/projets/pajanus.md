@@ -2,7 +2,7 @@
 title: "Pajanus"
 description: "Notre participation au C'space 2022 !"
 draft: false
-image : "images/projets/Pajanus/pajanus.png"
+image : "![](../../../static/images/projets/Pajanus/pajanus.PNG)"
 bg_image: "images/projets/Pajanus/pajanus.png"
 category: "Mini-fusée"
 information:
@@ -52,5 +52,5 @@ Le vol de Pajanus a été l'occasion de mener plusieurs expériences captivantes
 testé un parachute hémisphérique permettant une descente stable et sans oscillation, ainsi 
 qu'un système de récupération en deux temps.
 
-> Chacune de ces expériences avait pour objectif de contribuer à notre projet majeur, CIRRUS ! 
+Chacune de ces expériences avait pour objectif de contribuer à notre projet majeur, CIRRUS ! 
  
