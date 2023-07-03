@@ -20,7 +20,7 @@ information:
     info : "Titouan LEPAROUX"           
 ---
 
-## [MINI-FUSÉE] Sagittarius
+## [FUSÉE] Sagittarius
 
 Ce projet a été entrepris dans le but de raviver l’association. En 2018, des étudiants ont pris l'initiative de reprendre en main l'association qui avait été négligée pendant près de deux ans. 
 Bien qu'ils aient réussi à acheminer une fusée jusqu'au C'Space, l'absence d'un système de récupération stable les a empêchés de procéder à son lancement. L'objectif de l’année 2019 était de revitaliser définitivement les activités de l’association en menant à bien un projet et en réalisant avec succès 
