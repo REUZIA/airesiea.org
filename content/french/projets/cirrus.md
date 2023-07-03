@@ -57,10 +57,4 @@ De plus, Cirrus sera dotée d’un espace réservé pour embarquer des expérien
 secondaires, offrant ainsi une opportunité unique pour tester ces expériences 
 dans des conditions de vol réel. 
 
-La participation au projet Cirrus est une occasion rêvée de participer à des 
-évènements d’envergure internationale incontournables pour les amateurs du 
-domaine. La campagne de tir, qui clôture un chapitre du projet est non-seulement 
-l’occasion pour l’équipe de mettre en application réelle toute les solutions 
-théoriques identifiées lors de la phase de conception, mais aussi de 
-bénéficier d’un retour d’expérience pour les prochains projets ! 
  
