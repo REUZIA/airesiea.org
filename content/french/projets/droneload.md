@@ -23,8 +23,7 @@ information:
 Ce CAP Projet est un projet de drone autonome encadré par le LDR ( Learning Data Robotics).  
 L'équipe  a conçu un
 drone qui utilise l'intelligence artificielle pour se déplacer et réagir face à des 
-obstacles. Depuis 
-octobre 2021, ils travaillent sur ce projet ambitieux. 
+obstacles. Depuis octobre 2021, ils travaillent sur ce projet ambitieux. 
 
 Le robot a déjà participé à plusieurs éditions du concours DroneLoad organisé par Planète 
 Sciences. Ces épreuves

@@ -4,7 +4,7 @@ description: "Notre participation au C'space 2022 !"
 draft: false
 image : "images/projets/Pajanus/pa.PNG"
 bg_image: "images/projets/Pajanus/pa.PNG"
-category: "Mini-fusée"
+category: "C'space"
 information:
   - label : "Date de début"
     info : "Septembre 2021"
@@ -23,13 +23,11 @@ Voici quelques-unes des avancées techniques que nous avons intégrées :
 
 Pour la fabrication des composants, nous avons utilisé des usinages de tubes réalisés grâce à une 
 CNC 4+1 axes. Cette technique nous a permis d'obtenir une précision et une qualité optimales. 
-
 Nous avons effectué la découpe de la trappe, une étape cruciale pour assurer le bon fonctionnement 
 du système de récupération de la fusée. 
 
 Les ailerons de Pajanus ont été fabriqués en aluminium,offrant une résistance et une stabilité 
 supérieures pendant le vol. 
-
 Des bagues de reprise de poussée ainsi que des bagues maintenant les ailerons ont été utilisées 
 pour assurer une connexion solide et fiable entre les différents éléments de la fusée. 
 

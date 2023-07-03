@@ -4,7 +4,7 @@ description: "Notre participation au C'space 2019 !"
 draft: false
 image : "images/projets/sagittarius/sag.png"
 bg_image: "images/projets/sagittarius/bg.png"
-category: "Mini-fusée"
+category: "C'space"
 information:
   - label : "Date de début"
     info : "Septembre 2018"
