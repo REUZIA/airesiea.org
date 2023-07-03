@@ -14,7 +14,7 @@ information:
     info : "Clément GASTINNE"
 ---
 
-## [MINI-FUSÉE] PAJANUS
+## [FUSÉE] PAJANUS
 
 Pajanus, une fusée créée par les étudiants de l'association Air ESIEA, a marqué notre participation
 mémorable au C’space 2022. Cette fusée en fibre de verre, d'une hauteur 1,07 m et d'un poids de 2,2 kg, 
