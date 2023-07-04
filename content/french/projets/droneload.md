@@ -9,13 +9,13 @@ information:
   - label : "Date de début"
     info : "Octobre 2021"
   - label : "Equipe"
-    info : "Thomas Archambeau"
+    info : "Thomas MERLE"
   - label : ""
-    info : "Cyril Devalet"
+    info : "Charles PILON"
   - label : ""
-    info : "Rémy Guillaume"
+    info : "Louis TRAON"
   - label : ""
-    info : "Thomas Neret"
+    info : "Laurence Maëlle TOLSY"
 ---
 
 ## [CAP-PROJET] DRONELOAD 
