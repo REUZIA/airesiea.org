@@ -1,5 +1,5 @@
 ---
-title: "PST Drone Autonome"
+title: "CAP PROJET Drone Autonome"
 description: "Participez au concours DroneLoad organisé par Safran et Planète Sciences avec drone autonome"
 draft: false
 image: ""

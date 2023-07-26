@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://airesiea.org/" # Don't forget the trailing '/' !
+baseURL = "https://airesiea.org/" # Don't forget the trailing '/' !
 title = "Air ESIEA"
 theme = "airspace-hugo"
 # post pagination
@@ -168,6 +168,8 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
+# new-variable to contact
+toEmail = "air-esiea@et.esiea.fr"
 
 # Preloader
 [params.preloader]
@@ -191,29 +193,20 @@ map_marker = "images/marker.png"
   
 ############################# social site ########################
 [[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
 icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.linkedin.com/company/air-esiea/"
 
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/airesiea/"
 
+[[params.social]]
+icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.instagram.com/air.esiea.fr/"
+
+[[params.social]]
+icon = "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.youtube.com/@airesiea2107/"
 
 ################################ English Language ########################
 [Languages.en]
