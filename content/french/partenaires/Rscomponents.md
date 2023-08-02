@@ -2,8 +2,8 @@
 title: "RS Components "
 description: "Fournisseur de matériaux composites avancés"
 draft: false
-image : "images/partenaires/RS_components/RSlogo.png"
-bg_image: "images/partenaires/RS_components/RS logo.png"
+image : "images/partenaires/RS_components/RS logo.png"
+bg_image: "images/partenaires/RS_components/RSfond.png"
 category: "Bronze"
 information:
   - label : "Partenariat"
