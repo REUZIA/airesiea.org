@@ -2,8 +2,8 @@
 title: "Xometry "
 description: "platforme de fabrication sur demande"
 draft: false
-image : "images/partenaires/xometry/xometry fond.png"
-bg_image: "images/partenaires/xometry/xometry logo.png"
+image : "images/partenaires/xometry/xometry logo.png"
+bg_image: "images/partenaires/xometry/xometry fond.png"
 category: "Bronze"
 information:
   - label : "Partenariat"
