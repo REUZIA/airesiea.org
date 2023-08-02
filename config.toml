@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://airesiea.org/" # Don't forget the trailing '/' !
+baseURL = "https://airesiea.org/" # Don't forget the trailing '/' !
 title = "Air ESIEA"
 theme = "airspace-hugo"
 # post pagination
