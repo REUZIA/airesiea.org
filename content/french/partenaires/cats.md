@@ -11,7 +11,7 @@ information:
   - label : "Catégorie"
     info : "Fournisseur"
   - label : "Partenaires depuis"
-    info : "mai 2023"
+    info : "avril 2023"
 ---
 
 ## Qui est CATS ?
