@@ -22,4 +22,4 @@ Xometry est une plateforme en ligne qui révolutionne le processus de fabricatio
 
 La plateforme Xometry vous permet de gérer facilement vos projets de fabrication. Vous pouvez télécharger vos fichiers de conception, obtenir des devis compétitifs de différents fournisseurs, suivre l'avancement de la fabrication et gérer les transactions, le tout depuis une interface conviviale. De plus, Xometry propose des services complémentaires tels que des conseils d'ingénierie, des recommandations de conception et des outils de validation en ligne, pour vous aider à optimiser vos pièces et vos processus de fabrication. 
  
-Pour plus d’informations , veuillez visiter [leur site](https://xometry.eu/en/)! 
+Pour plus d’informations, n'hésitez pas à visiter [leur site](https://xometry.eu/en/)! 
