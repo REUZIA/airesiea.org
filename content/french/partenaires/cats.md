@@ -4,10 +4,10 @@ description: "Control and Telemetry systems"
 draft: false
 image : "images/partenaires/CATS/CATS.png"
 bg_image: "images/partenaires/CATS/CATS.png"
-category: "Bronze"
+category: "Gold"
 information:
   - label : "Partenariat"
-    info : "Bronze"
+    info : "Gold"
   - label : "Catégorie"
     info : "Fournisseur"
   - label : "Partenaires depuis"
