@@ -7,7 +7,7 @@ bg_image: "images/partenaires/EuZiA/LeFond.png"
 category: "Gold"
 information:
   - label : "Partenariat"
-    info : "Gold"
+    info : "‎ Gold"
   - label : "Catégorie"
     info : "Ecole d'ingénieur"
   - label : "Partenaires depuis"
