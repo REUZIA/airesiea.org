@@ -4,7 +4,7 @@ description: "Fournisseur de matériaux composites avancés"
 draft: false
 image : "images/partenaires/Easy_Composites/easy-composites-logo-curves.png"
 bg_image: "images/partenaires/Easy_Composites/LeFond.png"
-category: "Bronze"
+category: "BRONZE"
 information:
   - label : "Partenariat"
     info : "Bronze"

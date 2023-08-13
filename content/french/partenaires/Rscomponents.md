@@ -4,11 +4,11 @@ description: "Fournisseur de matériaux composites avancés"
 draft: false
 image : "images/partenaires/RS_components/RS logo.png"
 bg_image: "images/partenaires/RS_components/RSfond.png"
-category: "Silver"
+category: "SILVER"
 information:
   - label : "Partenariat"
-    info : "silver"
-  - label : "Silver"
+    info : "Silver"
+  - label : "Catégorie"
     info : "Fournisseur"
   - label : "Partenaires depuis"
     info : "mars 2023"
@@ -44,3 +44,4 @@ Nous sommes convaincus qu'il est essentiel de transformer l'impossible en possib
 -Livraison le lendemain
 -Aucune quantité minimale de commande
 -Service personnalisé et assistance technique en plus de la vente en ligne
+

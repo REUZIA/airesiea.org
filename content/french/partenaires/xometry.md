@@ -4,7 +4,7 @@ description: "platforme de fabrication sur demande"
 draft: false
 image : "images/partenaires/xometry/xometry logo.png"
 bg_image: "images/partenaires/xometry/xometry fond.png"
-category: "Bronze"
+category: "BRONZE"
 information:
   - label : "Partenariat"
     info : "Bronze"
