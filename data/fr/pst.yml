@@ -66,6 +66,15 @@ pricing:
         - De la 3e à la 5ème année
         - Asservissement, conception et optimisation
         - Bonne introduction à la recherche
+        
+    - name : "PST Fonderie Asservie"
+      content : Concevez et réaliser un dispositif permettant la fonte de métaux pour la réalisation de pièce !"
+      link : "2023-2024/fonderie"
+      background: "../images/pst/2023-2024/avant.png"
+      services:
+        - De la 2ème à la 3e année
+        - Un projet éthique et responsable 
+        - Une bonne approche du génie mécanique    
 
 ############################# call to action #################################
 cta:
