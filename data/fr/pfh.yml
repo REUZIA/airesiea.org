@@ -33,7 +33,7 @@ pricing:
 
     - name : "PFH Communication"
       content : "Organisez des conférences techniques accessibles à tous avec des pointures de leur domaine !"
-      link : "2023/2024"
+      link : "2023/com"
       background: "../images/pfh/scitech.png"
       services:
         - Bonne initiation aux techniques de l'audiovisuel
