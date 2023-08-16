@@ -31,6 +31,15 @@ pricing:
         - Acquérez des connaissances extra-scolaires ! 
         - Abordez des conférenciers \"high-profile\" ! # mentionner réseau etc
 
+    - name : "PFH Communication"
+      content : "Organisez des conférences techniques accessibles à tous avec des pointures de leur domaine !"
+      link : "2023/2024"
+      background: "../images/pfh/scitech.png"
+      services:
+        - Bonne initiation aux techniques de l'audiovisuel
+        - Acquérez des connaissances extra-scolaires ! 
+        - Abordez des conférenciers \"high-profile\" !        
+
 #    - name : "PFH Ballon-sonde II"
 #      content : "Apprenez à mettre en pratique vos connaissances et cours pour lâcher un ballon à 30km !"
 #      link : "2020/ballon-sonde2"
