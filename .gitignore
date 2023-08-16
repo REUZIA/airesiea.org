@@ -3,3 +3,4 @@ public
 .vimsess
 */.vimsess
 .hugo_build.lock
+resources/_gen/assets/scss/scss/*

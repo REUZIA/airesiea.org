@@ -4,7 +4,7 @@ description: "Grande Ecole d'Ingénieurs CTI"
 draft: false
 image : "images/partenaires/EuZiA/euzia.png"
 bg_image: "images/partenaires/EuZiA/LeFond.png"
-category: "GOLD"
+category: " GOLD"
 information:
   - label : "Partenariat"
     info : "GOLD"
