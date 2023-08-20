@@ -3,7 +3,7 @@ title: "PFH Communication"
 description: "Apprenez à faire de la communication pour une association étudiante ! !"
 draft: false
 image: ""
-bg_image: "images/pfh/bs2_banner.png"
+bg_image: "images/pfh/com2.jpg"
 layout: "simple"
 ---
 
