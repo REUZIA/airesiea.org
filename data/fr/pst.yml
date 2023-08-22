@@ -50,7 +50,7 @@ pricing:
         - Le [**terroir**](https://youtu.be/n0jyLUz1YJg?t=33)
 
     - name : "CAP PROJET Drone Autonome"
-      content : "Participez au concours [DroneLoad](https://www.planete-sciences.org/espace/Concours-DroneLoad/Concours) organisé par Safran et Planète Sciences avec votre drone autonome"
+      content : "Participez au concours [DroneLoad](https://www.planete-sciences.org/espace/Concours-DroneLoad/Concours) organisé par Safran et Planète Sciences"
       link : "2022-2023/droneload"
       background: "../images/pst/2022-2023/wehrner_von_draun.png"
       services:
@@ -74,7 +74,24 @@ pricing:
       services:
         - De la 2ème à la 3e année
         - Un projet éthique et responsable 
-        - Une bonne approche du génie mécanique    
+        - Une bonne approche du génie mécanique   
+
+    - name : "CAP PROJET Smart Tube"
+      content : "Faites avancer l'innovation électroniques étudiantes"
+      link : "2023-2024/smarttube"
+      background: "../images/pst/2023-2024/smart2.png"
+      services:
+        - 4ème et 5ème année (Cap Projet)
+        - des nouvelles méthodes de réalisations de PCB!
+
+    - name : "CAP PROJET Sauron"
+      content : "Des projets des projets de machines learnings étudiant ça existe ! "
+      link : "2023-2024/sauron"
+      background: "../images/pst/2023-2024/sauron3.png"
+      services:
+        - 4ème et 5ème année (Cap Projet)
+        - des nouvelles méthodes de réalisations de PCB!    
+                
 
 ############################# call to action #################################
 cta:
