@@ -3,7 +3,7 @@ title: "CAP PROJET Drone Haute Altitude"
 description: "Réalisez un drone pour permettre l'expérimentation de système de récupération!"
 draft: false
 image: ""
-bg_image: "images/pst/2022-2023/banc_banniere.png"
+bg_image: "images/pst/2022-2023/banniere_dha.png"
 layout: "simple"
 ---
 

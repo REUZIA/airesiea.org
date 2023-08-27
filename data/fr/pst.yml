@@ -60,7 +60,7 @@ pricing:
 
     - name : "PST Drone Haute Altitude"
       content : "Envie d'un drone qui se démarque ? Développez un drone capable d'emporter de lourdes charges utiles à haute altitude !"
-      link : "2022-2023/dha"
+      link : "2022-2023/dronehaute"
       background: "../images/pst/2022-2023/dha.png"
       services:
         - De la 3e à la 5ème année
