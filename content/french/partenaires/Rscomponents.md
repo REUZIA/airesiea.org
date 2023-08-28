@@ -2,12 +2,12 @@
 title: "RS Components "
 description: "Fournisseur de matériaux composites avancés"
 draft: false
-image : "images/partenaires/RS_components/RSlogo.png"
-bg_image: "images/partenaires/RS_components/RSFond.png"
-category: "Bronze"
+image : "images/partenaires/RS_components/RS logo.png"
+bg_image: "images/partenaires/RS_components/RSfond.png"
+category: "SILVER"
 information:
   - label : "Partenariat"
-    info : "Bronze"
+    info : "Silver"
   - label : "Catégorie"
     info : "Fournisseur"
   - label : "Partenaires depuis"
@@ -44,3 +44,4 @@ Nous sommes convaincus qu'il est essentiel de transformer l'impossible en possib
 -Livraison le lendemain
 -Aucune quantité minimale de commande
 -Service personnalisé et assistance technique en plus de la vente en ligne
+

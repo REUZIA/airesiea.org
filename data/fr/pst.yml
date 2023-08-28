@@ -50,7 +50,7 @@ pricing:
         - Le [**terroir**](https://youtu.be/n0jyLUz1YJg?t=33)
 
     - name : "CAP PROJET Drone Autonome"
-      content : "Participez au concours [DroneLoad](https://www.planete-sciences.org/espace/Concours-DroneLoad/Concours) organisé par Safran et Planète Sciences avec votre drone autonome"
+      content : "Participez au concours [DroneLoad](https://www.planete-sciences.org/espace/Concours-DroneLoad/Concours) organisé par Safran et Planète Sciences"
       link : "2022-2023/droneload"
       background: "../images/pst/2022-2023/wehrner_von_draun.png"
       services:
@@ -60,12 +60,40 @@ pricing:
 
     - name : "PST Drone Haute Altitude"
       content : "Envie d'un drone qui se démarque ? Développez un drone capable d'emporter de lourdes charges utiles à haute altitude !"
-      link : "2022-2023/dha"
+      link : "2022-2023/dronehaute"
       background: "../images/pst/2022-2023/dha.png"
       services:
         - De la 3e à la 5ème année
         - Asservissement, conception et optimisation
         - Bonne introduction à la recherche
+        
+    - name : "PST Fonderie Asservie"
+      content : Concevez et réaliser un dispositif permettant la fonte de métaux pour la réalisation de pièce !"
+      link : "2023-2024/fonderie"
+      background: "../images/pst/2023-2024/avant.png"
+      services:
+        - De la 2ème à la 3e année
+        - Un projet éthique et responsable 
+        - Une bonne approche du génie mécanique   
+
+    - name : "CAP PROJET Smart Tube"
+      content : "Faites avancer l'innovation électroniques étudiantes"
+      link : "2023-2024/smarttube"
+      background: "../images/pst/2023-2024/smart2.png"
+      services:
+        - 4ème et 5ème année (Cap Projet)
+        - Formez-vous à mécanqiue!
+        - Pour un projet unique d’invitation étudiante! 
+
+    - name : "CAP PROJET Sauron"
+      content : "Des projets des projets de machines learnings étudiant ça existe ! "
+      link : "2023-2024/sauron"
+      background: "../images/pst/2023-2024/sauron3.png"
+      services:
+        - 4ème et 5ème année (Cap Projet)
+        - Développer du machine Learning étudiant!  
+        - Pour prévoir une zone d’atterrissage!  
+                
 
 ############################# call to action #################################
 cta:
