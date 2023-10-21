@@ -208,6 +208,10 @@ link = "https://www.instagram.com/air.esiea.fr/"
 icon = "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.youtube.com/@airesiea2107/"
 
+[[params.social]]
+icon = "logo-discord" : https://ionic.io/ionicons
+link = "https://discord.com/invite/n6sBCMNXP5"
+
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
