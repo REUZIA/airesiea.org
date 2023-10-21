@@ -209,7 +209,7 @@ icon = "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.youtube.com/@airesiea2107/"
 
 [[params.social]]
-icon = "static/images/custom_icons/logo-discord.svg"  #https://fontawesome.com/icons/discord?f=brands&s=solid 
+icon = "/static/images/custom_icons/logo-discord.svg"  #https://fontawesome.com/icons/discord?f=brands&s=solid 
 link = "https://discord.com/invite/n6sBCMNXP5"
 
 ################################ English Language ########################
