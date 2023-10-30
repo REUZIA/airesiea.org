@@ -26,3 +26,11 @@
         background-image: url(https://airesiea.org/images/custom_icons/roquette.png);
 	background-size: 100%;
 }
+
+/* Custom icon CSS override */
+.ion-wand:before {
+        content: "";
+        width: 18.75px;
+        height: 25px;
+        background-image: url(https://airesiea.org/images/custom_icons/logo-discord.svg);
+}
