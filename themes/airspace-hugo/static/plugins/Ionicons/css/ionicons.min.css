@@ -30,8 +30,8 @@
 /* Custom icon CSS override */
 .ion-social-vimeo-outline:before {
         content: "";
-        width: 25px;
-        height: 25px;
+        width: 22px;
+        height: 22px;
         background-image: url(https://test.airesiea.org/images/custom_icons/discord.png);
 	background-size: 100%;
 }
