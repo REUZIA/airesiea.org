@@ -27,4 +27,14 @@
 	background-size: 100%;
 }
 
+/* Custom icon CSS override */
+.ion-social-vimeo-outline:before {
+        content: "";
+        width: 65px;
+        height: 65px;
+        background-image: url(https://airesiea.org/images/custom_icons/discord.png);
+	background-size: 100%;
+}
+
+
 
