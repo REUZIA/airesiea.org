@@ -9,7 +9,7 @@ layout: "simple"
 
 ## Que propose-t-on aux étudiants ?
 En tant qu'étudiant, on n'a que l'embarras du choix vis-à-vis d'Air ESIEA : nous proposons de nombreuses activités, certaines liées au cursus pédagogie et d'autres non : 
-- [les Projets de Formation Humaine (abrégés PFH)](../pfh/) : obligatoires de
+- [les Projets de Formation Humaine (abrégés PAIRSE)](../pairse/) : obligatoires de
   la 1A à la 3A, vous pouvez choisir de choisir un projet Air ESIEA, et de
   bénéficier d'un accompagnement et d'une supplémentaires
 - [les Projets Scientifiques et Techniques (à venir)](../pst) : obligatoires en 2A et 3A

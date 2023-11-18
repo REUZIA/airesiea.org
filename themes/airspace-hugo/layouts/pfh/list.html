@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.pfh.pricing.enable }}
-{{ with $data.pfh.pricing }}
+{{ if $data.pairse.pricing.enable }}
+{{ with $data.pairse.pricing }}
 
 <section class="pricing-table section bg-gray">
   <div class="container">
@@ -37,7 +37,7 @@
 {{ end }}
 
 <!-- Call to action -->
-{{ if $data.pfh.cta.enable }}
+{{ if $data.pairse.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->

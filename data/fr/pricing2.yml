@@ -4,44 +4,44 @@ pricing:
   summary : "This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary. This is a length summary." 
   pricing_table:
     # pricing table loop
-    - name : "PFH Kaléikakakakdoscopes"
+    - name : "PAIRSE Kaléikakakakdoscopes"
       content : "Apprenez à brasser votre propre bière et développez des recettes innovantes !"
       link : "#"
       background: "http://www.tux-coffee.org/tmp/img.jpg"
       services:
         - Matériel à disposition
         - Suivi par des experts du domaine
-        - Vainqueur du concours PFH 2018 !
-    - name : "PFH Kaléikakakaqfqfqfpqz"
+        - Vainqueur du concours PAIRSE 2018 !
+    - name : "PAIRSE Kaléikakakaqfqfqfpqz"
       content : "Apprenez à brasser votre propre bière et développez des recettes innovantes !"
       link : "#"
       background: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Approve_icon.svg/1024px-Approve_icon.svg.png"
       services:
         - Matériel à disposition
-    - name : "PFH Kaléikakakakdoscopes"
+    - name : "PAIRSE Kaléikakakakdoscopes"
       content : "Apprenez à brasser votre propre bière et développez des recettes innovantes !"
       link : "#"
       background: "http://www.tux-coffee.org/tmp/img.jpg"
       services:
         - Matériel à disposition
         - Suivi par des experts du domaine
-    - name : "PFH Kaléikakakakdoscopes"
+    - name : "PAIRSE Kaléikakakakdoscopes"
       content : "Apprenez à brasser votre propre bière et développez des recettes innovantes !"
       link : "#"
       background: "http://www.tux-coffee.org/tmp/img.jpg"
       services:
         - Matériel à disposition
         - Suivi par des experts du domaine
-        - Vainqueur du concours PFH 2018 !
-    - name : "PFH Kaléikakakaqfqfqfpqz"
+        - Vainqueur du concours PAIRSE 2018 !
+    - name : "PAIRSE Kaléikakakaqfqfqfpqz"
       content : "Apprenez à brasser votre propre bière et développez des recettes innovantes !"
       link : "#"
       background: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Approve_icon.svg/1024px-Approve_icon.svg.png"
       services:
         - Matériel à disposition
         - Suivi par des experts du domaine
-        - Vainqueur du concours PFH 2018 !
-    - name : "PFH Kaléikakakakdoscopes"
+        - Vainqueur du concours PAIRSE 2018 !
+    - name : "PAIRSE Kaléikakakakdoscopes"
       content : "Apprenez à brasser votre propre bière et développez des recettes innovantes !"
       link : "#"
       background: "http://www.tux-coffee.org/tmp/img.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "PFH Kaléidoscopes"
+title: "PAIRSE Kaléidoscopes"
 description: "Apprenez à brasser votre propre bière et développez des recettes et savoir-faire innovants !"
 draft: false
 image: ""
@@ -8,11 +8,11 @@ layout: "simple"
 ---
 
 ## Description
-A son lancement en 2018, l'objectif du PFH Kaléidoscopes était simple : se
+A son lancement en 2018, l'objectif du PAIRSE Kaléidoscopes était simple : se
 lancer le défi créer une brasserie étudiante amateur, et faire (re)découvrir à
 tout un chacun ce qu'il est possible de faire, même avec une petite équipe.  Le
-pari fut réussi, puisque c'est ce PFH qui a gagné le premier prix au concours
-des PFH de la même année scolaire. 
+pari fut réussi, puisque c'est ce PAIRSE qui a gagné le premier prix au concours
+des PAIRSE de la même année scolaire. 
 
 Heureusement, l'art de la brasserie n'est pas une science exacte, et il reste
 beaucoup à expérimenter. En proposant ce projet, nous espérons qu'une équipe
@@ -37,12 +37,12 @@ perspective décalée du reste de l'enseignement académique.
 - Une occasion de bénéficier de matériel de qualité qui dépasse celui de l'amateur moyen
 
 ## Comment postuler ?
-Pour postuler à ce PFH et aux autres, ils vous suffit d'envoyer un email à
+Pour postuler à ce PAIRSE et aux autres, ils vous suffit d'envoyer un email à
 l'adresse suivante : 
 
 **air-esiea@et.esiea.fr**
 
-Précisez bien votre nom et "Candidature PFH" dans l'objet du mail ; vous pouvez
-ensuite détailler le PFH auquel vous voulez candidater, et toutes les
+Précisez bien votre nom et "Candidature PAIRSE" dans l'objet du mail ; vous pouvez
+ensuite détailler le PAIRSE auquel vous voulez candidater, et toutes les
 informations potentiellement utiles, ainsi que toute question que vous auriez à
 son sujet.
