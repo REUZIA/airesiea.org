@@ -60,4 +60,4 @@ dans des conditions de vol réel.
  ### Vol inaugural EuRoC 2023
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui id ornare arcu odio ut sem nulla pharetra diam. Neque ornare aenean euismod elementum. Turpis nunc eget lorem dolor sed viverra ipsum. Sed tempus urna et pharetra pharetra. Lectus urna duis convallis convallis tellus id interdum. Egestas erat imperdiet sed euismod nisi porta lorem. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Mi eget mauris pharetra et ultrices neque ornare aenean euismod. Massa tempor nec feugiat nisl pretium fusce.
 
-![Cirrus en rampe](/images/projets/cirrusCirrus_en_rampe.jpg "titre")
+![Cirrus-en-rampe.jpg](https://postimg.cc/CRmZHnV4)
