@@ -3,7 +3,7 @@ title: "PFH Ballon-sonde II"
 description: "Apprenez à mettre en pratique vos connaissances et cours pour lâcher un ballon à 30km !"
 draft: false
 image: ""
-bg_image: "images/pfh/bs2_banner.png"
+bg_image: "images/pairse/bs2_banner.png"
 layout: "simple"
 ---
 

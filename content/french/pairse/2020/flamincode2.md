@@ -3,7 +3,7 @@ title: "PFH Flamin'Code II"
 description: "Créez et lancez des défis techniques issus de disciplines variées aux autres étudiants !"
 draft: false
 image: ""
-bg_image: "images/pfh/fc2_banner.png"
+bg_image: "images/pairse/fc2_banner.png"
 layout: "simple"
 ---
 

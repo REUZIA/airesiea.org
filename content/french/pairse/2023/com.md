@@ -1,9 +1,9 @@
 ---
-title: "PFH Communication"
+title: "PAIRSE Communication"
 description: "Apprenez à faire de la communication pour une association étudiante ! !"
 draft: false
 image: ""
-bg_image: "images/pfh/com2.jpg"
+bg_image: "images/pairse/com2.jpg"
 layout: "simple"
 ---
 
@@ -23,10 +23,10 @@ L'équipe devra donc :
 - Une première approche du monde associatif !
 
 ## Comment postuler ?
-Pour postuler à ce PFH et aux autres, ils vous suffit d'envoyer un email à
+Pour postuler à ce PAIRSE et aux autres, ils vous suffit d'envoyer un email à
 l'adresse suivante : 
 
 **air-esiea@et.esiea.fr**
 
-Précisez bien votre nom et “Candidature PFG” dans l’objet du mail ; vous pouvez ensuite détailler le PFH auquel vous voulez candidater, et toutes les informations potentiellement utiles, ainsi que toute question que vous auriez à son sujet.
+Précisez bien votre nom et “Candidature PAIRSE” dans l’objet du mail ; vous pouvez ensuite détailler le PAIRSE auquel vous voulez candidater, et toutes les informations potentiellement utiles, ainsi que toute question que vous auriez à son sujet.
 Il est également possible de venir poser vos questions aux membres de l’association directement dans nos locaux à la Cave ou dans les couloirs de l’école !

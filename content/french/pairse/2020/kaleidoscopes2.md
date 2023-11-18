@@ -3,7 +3,7 @@ title: "PFH Kaléidoscopes"
 description: "Apprenez à brasser votre propre bière et développez des recettes et savoir-faire innovants !"
 draft: false
 image: ""
-bg_image: "images/pfh/kaleidoscopes_banner.png"
+bg_image: "images/pairse/kaleidoscopes_banner.png"
 layout: "simple"
 ---
 

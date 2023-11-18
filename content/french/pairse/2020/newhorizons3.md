@@ -3,7 +3,7 @@ title: "PFH New Horizons III"
 description: "Partagez votre passion de la science en vulgarisant et sensibilisant étudiants et élèves !"
 draft: false
 image: ""
-bg_image: "images/pfh/nh3_banner.png"
+bg_image: "images/pairse/nh3_banner.png"
 layout: "simple"
 ---
 

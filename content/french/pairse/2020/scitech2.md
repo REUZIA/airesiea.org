@@ -3,7 +3,7 @@ title: "PFH Conférences Sci'Tech II"
 description: "Organisez des conférences techniques accessibles à tous avec des pointures de leur domaine !"
 draft: false
 image: ""
-bg_image: "images/pfh/scitech2_banner.png"
+bg_image: "images/pairse/scitech2_banner.png"
 layout: "simple"
 ---
 
