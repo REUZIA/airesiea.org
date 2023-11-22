@@ -13,6 +13,8 @@ information:
   - label : ""
     info : "Tom ROMAO"
   - label : ""
+    info : "Hugo ALLAIRE"
+  - label : ""
     info : "Clément GASTINNE"
   - label : ""
     info : "Hugo CARDIN"
