@@ -9,7 +9,7 @@ layout: "simple"
 
 ## Images
 ![target](/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg)
-![target]((/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg)
+![target](/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg)
 ![target](/images/newsletter/RS%20France.png)
 ![target](/images/newsletter/_DSC9170.jpg)
 ![target](/images/newsletter/_DSC9333.jpg)
