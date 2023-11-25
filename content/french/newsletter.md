@@ -19,7 +19,6 @@ layout: "simple"
 ![target](/images/newsletter/easycomposite.png)
 ![target](/images/newsletter/facebook.png)
 ![target](/images/newsletter/insta-19.png)
-![target](/images/newsletter/leculdecirrus-21.png)
 ![target](/images/newsletter/linkedin.png)
 ![target](/images/newsletter/logo-esiea-blanc-fond-bleu-1.png)
 ![target](/images/newsletter/xometry.png)
