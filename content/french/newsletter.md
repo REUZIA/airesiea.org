@@ -1,6 +1,6 @@
 ---
 title: "Newsletter"
-description: ""
+description: "Edition du 27 Novembre 2033"
 draft: false
 image: ""
 bg_image: "images/fibre_verre.png"
