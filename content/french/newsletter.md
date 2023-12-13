@@ -18,6 +18,8 @@ L’année scolaire 2022-2023 s’est achevée et avec elle de nombreux projets 
 
 ## Focus EuRoC
 
+![target](/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg)
+
 Après avoir participé à l’édition fondatrice de EuRoC en 2020, où l’équipe a remporté le prix Team Spirit. Air ESIEA marque son retour 3 ans plus tard avec la fusée Cirrus (3m14 et presque 30kg). Lors de cette édition une vingtaine d’équipes, venues de 14 pays différents, se sont retrouvées au Portugal pour présenter leur fusée dans le but d’être autorisée à la lancer depuis le pas de tir.
 C’est au dernier jour d’une semaine d’intense travail que notre fusée décollera atteignant les 255m/s et les 2920m.
 Nous repartons avec des souvenirs inoubliables de l'événement et de l'esprit d'équipe qui nous as animé, ainsi qu’avec la satisfaction d'avoir mené un projet d’envergure à bien.
@@ -41,7 +43,6 @@ le Groupe ESIEA , Xometry, RS France, Easycomposite et CATS. C’est grâce à l
 Au programme, trois minifusées et une fusée expérimentale (fusex) qui participeront au C’Space 2024 et un drone autonome réalisé dans le cadre du concours Droneload. Les minifusées sont un bon moyen de s’initier à la conception de fusées mais il est toujours possible de participer à une fusex ou à la prochaine fusée de la gamme CIRRUS. Vous nous retrouverez aussi sur des évènements :sparkle: gastronomiques :sparkles: durant l’année.
 
 ## Images
-![target](/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg)
 ![target](/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg)
 ![target](/images/newsletter/_DSC9333.jpg)
 ![target](/images/newsletter/air-esiea-round-white-2.png)
