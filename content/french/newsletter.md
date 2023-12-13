@@ -2,8 +2,8 @@
 title: "Newsletter"
 description: "Edition du 27 Novembre 2033"
 draft: false
-image: "images/newsletter/_DSC9170.jpg"
-bg_image: "images/fibre_verre.png"
+image: ""
+bg_image: "images/projets/cirrus/bg.png"
 layout: "simple"
 ---
 
