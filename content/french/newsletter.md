@@ -25,12 +25,14 @@ Nous repartons avec des souvenirs inoubliables de l'événement et de l'esprit d
 ## Ils nous ont soutenus
 
 Nous souhaitons exprimer notre profonde gratitude envers nos partenaires grâce à qui il nous est possible de réaliser des projets.
+
 ![target](/images/newsletter/cats.png)
 ![target](/images/newsletter/easycomposite.png)
 ![target](/images/newsletter/facebook.png)
 ![target](/images/newsletter/insta-19.png)
 ![target](/images/newsletter/linkedin.png)
 ![target](/images/newsletter/xometry.png)
+
 le Groupe ESIEA , Xometry, RS France, Easycomposite et CATS. C’est grâce à la collaboration précieuse de ces entreprises que nous avons pu atteindre notre objectif de lancement pour la fusée Cirrus à EUROC-2023.
 
 ## Ce qui nous attends 
