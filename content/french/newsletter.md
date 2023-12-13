@@ -2,7 +2,7 @@
 title: "Newsletter"
 description: "Edition du 27 Novembre 2033"
 draft: false
-image: ""
+image: "/images/newsletter/_DSC9170.jpg"
 bg_image: "images/fibre_verre.png"
 layout: "simple"
 ---
@@ -32,6 +32,7 @@ Nous souhaitons exprimer notre profonde gratitude envers nos partenaires grâce 
 ![target](/images/newsletter/insta-19.png)
 ![target](/images/newsletter/linkedin.png)
 ![target](/images/newsletter/xometry.png)
+![target](/images/newsletter/RS%20France.png)
 
 le Groupe ESIEA , Xometry, RS France, Easycomposite et CATS. C’est grâce à la collaboration précieuse de ces entreprises que nous avons pu atteindre notre objectif de lancement pour la fusée Cirrus à EUROC-2023.
 
@@ -42,8 +43,6 @@ Au programme, trois minifusées et une fusée expérimentale (fusex) qui partici
 ## Images
 ![target](/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg)
 ![target](/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg)
-![target](/images/newsletter/RS%20France.png)
-![target](/images/newsletter/_DSC9170.jpg)
 ![target](/images/newsletter/_DSC9333.jpg)
 ![target](/images/newsletter/air-esiea-round-white-2.png)
 ![target](/images/newsletter/air-esiea-text-white-2.png)
