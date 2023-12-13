@@ -3,7 +3,7 @@ title: "Newsletter"
 description: "Edition du 27 Novembre 2033"
 draft: false
 image: ""
-bg_image: "images/newsletters/_DSC9170.jpg"
+bg_image: "images/newsletter/_DSC9170.jpg"
 layout: "simple"
 ---
 
