@@ -4,6 +4,7 @@ description: "Edition du 27 Novembre 2033"
 draft: false
 image: ""
 bg_image: "images/newsletter/_DSC9170.jpg"
+layout: "simple"
 ---
 
 ## 37 ans d'histoire, 37 ans de projets 
