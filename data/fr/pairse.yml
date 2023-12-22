@@ -13,7 +13,7 @@ pricing:
   __Ne vous autocensurez pas !__"
 
   pricing_table:
-    - name : "PAIRSE Kaléidoscopes II"
+    - name : "PFH Kaléidoscopes II"
       content : "Apprenez à brasser votre propre bière et développez des recettes et savoir-faire innovants !"
       link : "2020/kaleidoscopes2"
       background: "../images/pairse/kaleidoscopes.png"
