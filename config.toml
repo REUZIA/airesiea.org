@@ -78,8 +78,8 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Espace étudiants"
-  name = "PFH"
-  URL = "pfh"
+  name = "PAIRSE"
+  URL = "pairse"
   weight = 42
 
   [[Languages.fr.menu.main]]

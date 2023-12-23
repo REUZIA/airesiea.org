@@ -1,5 +1,5 @@
 ---
-title: "PFH Conférences Sci'Tech II"
+title: "PAIRSE Conférences Sci'Tech II"
 description: "Organisez des conférences techniques accessibles à tous avec des pointures de leur domaine !"
 draft: false
 image: ""

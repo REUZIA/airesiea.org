@@ -1,5 +1,5 @@
 ---
-title: "PFH Kaléidoscopes"
+title: "PAIRSE Kaléidoscopes"
 description: "Apprenez à brasser votre propre bière et développez des recettes et savoir-faire innovants !"
 draft: false
 image: ""
@@ -11,7 +11,7 @@ layout: "simple"
 A son lancement en 2018, l'objectif du PAIRSE Kaléidoscopes était simple : se
 lancer le défi créer une brasserie étudiante amateur, et faire (re)découvrir à
 tout un chacun ce qu'il est possible de faire, même avec une petite équipe.  Le
-pari fut réussi, puisque c'est ce PFH qui a gagné le premier prix au concours
+pari fut réussi, puisque c'est ce PAIRSE qui a gagné le premier prix au concours
 des PAIRSE de la même année scolaire. 
 
 Heureusement, l'art de la brasserie n'est pas une science exacte, et il reste

@@ -1,5 +1,5 @@
 ---
-title: "PFH New Horizons III"
+title: "PAIRSE New Horizons III"
 description: "Partagez votre passion de la science en vulgarisant et sensibilisant étudiants et élèves !"
 draft: false
 image: ""
