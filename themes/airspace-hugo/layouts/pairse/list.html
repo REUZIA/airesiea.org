@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.pairse.pricing.enable }}
+{{ with $data.pairse.pricing }}
+
+<section class="pricing-table section bg-gray">
+  <div class="container">
+	<div style="margin-bottom:30px; margin-top: -60px; text-align: center">{{.summary | markdownify }}</div>
+    <div class="row">
+      <!-- single pricing table -->
+      {{ range .pricing_table }}
+      <div class="col-md-4 col-sm-6 col-xs-12">
+		<div class="pricing-item text-center" style="background-image: url('{{ .background }}'); background-repeat: no-repeat; background-position: center; height: 400px; margin-bottom: 50px">
+          <div class="price-title">
+            <h2>{{ .name }}</h2>
+<!--            <strong class="value">{{ .price }}</strong> -->
+            <p>{{ .content | markdownify }}</p>
+          </div>
+          <ul>
+            {{ range .services }}
+            <li>{{ . | markdownify }}</li>
+            {{ end }}
+          </ul>
+          <a class="btn btn-small" href="{{ .link | safeURL }}">En savoir plus</a>
+        </div>
+      </div>
+      {{ end }}
+      <!-- end single pricing table -->
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- Call to action -->
+{{ if $data.pairse.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
+
+{{ end }}
