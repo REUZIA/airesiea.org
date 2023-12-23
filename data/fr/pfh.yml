@@ -16,7 +16,7 @@ pricing:
     - name : "PFH Kaléidoscopes II"
       content : "Apprenez à brasser votre propre bière et développez des recettes et savoir-faire innovants !"
       link : "2020/kaleidoscopes2"
-      background: "../images/pairse/kaleidoscopes.png"
+      background: "../images/pfh/kaleidoscopes.png"
       services:
         - Matériel déjà à disposition
         - Suivi et conseils d'experts du domaine
@@ -25,7 +25,7 @@ pricing:
     - name : "PAIRSE Confs Sci'Tech II"
       content : "Organisez des conférences techniques accessibles à tous avec des pointures de leur domaine !"
       link : "2020/scitech2"
-      background: "../images/pairse/scitech.png"
+      background: "../images/pfh/scitech.png"
       services:
         - Bonne initiation aux techniques de l'audiovisuel
         - Acquérez des connaissances extra-scolaires ! 
@@ -34,7 +34,7 @@ pricing:
     - name : "PAIRSE Communication"
       content : "Chargé de créer des publication hebdomadaire pour les comptes de l'association !"
       link : "2023/com"
-      background: "../images/pairse/com.png"
+      background: "../images/pfh/com.png"
       services:
         - Ascquérir des compétences en rédaction !
         - Développerez des aptitudes en organisation ! 
@@ -43,7 +43,7 @@ pricing:
 #    - name : "PAIRSE Ballon-sonde II"
 #      content : "Apprenez à mettre en pratique vos connaissances et cours pour lâcher un ballon à 30km !"
 #      link : "2020/ballon-sonde2"
-#      background: "../images/pairse/ballon-sonde.png"
+#      background: "../images/pfh/ballon-sonde.png"
 #      services:
 #        - Parfait pour faire de la technique !
 #        - Projet supporté par le CNES
@@ -52,7 +52,7 @@ pricing:
 #    - name : "PAIRSE New Horizons III"
 #      content : "Partagez votre passion de la science en vulgarisant et sensibilisant étudiants et élèves !"
 #      link : "2020/newhorizons3"
-#      background: "../images/pairse/newhorizons.png"
+#      background: "../images/pfh/newhorizons.png"
 #      services:
 #        - Le moins scolaire de nos PAIRSE
 #        - Développez vos compétences en communication !
@@ -61,7 +61,7 @@ pricing:
 #    - name : "PAIRSE Flamin'Code II"
 #      content : "Créez et lancez des défis techniques issus de disciplines variées aux autres étudiants !"
 #      link : "2020/flamincode2"
-#      background: "../images/pairse/flamincode.png"
+#      background: "../images/pfh/flamincode.png"
 #      services:
 #        - Approfondissez vos compétences techniques ! # compétences générales
 #        - "Multidisciplinaire : info, maths, physique, SI..."

@@ -1,9 +1,9 @@
 ---
-title: "PAIRSE Flamin'Code II"
+title: "PFH Flamin'Code II"
 description: "Créez et lancez des défis techniques issus de disciplines variées aux autres étudiants !"
 draft: false
 image: ""
-bg_image: "images/pairse/fc2_banner.png"
+bg_image: "images/pfh/fc2_banner.png"
 layout: "simple"
 ---
 
@@ -12,11 +12,11 @@ A l'origine lancé par le DTRE en 2018, le projet Flamin'Code avait un objectif
 simple : lancer des défis hebdomadaires aux étudiants, trouver les plus motivés
 et techniquement compétents d'entre eux, et les récompenser !  Rentré en
 sommeil depuis 2019, nous proposons aujourd'hui à qui le veut de le faire
-renaître de ses cendres sous la forme d'un PAIRSE !
+renaître de ses cendres sous la forme d'un PFH !
 
 Avec ce projet, nous aimerions à terme mettre en place un vrai circuit de défis
 destiné aux étudiants, qui pourraient alors gagner des points tout au long de
-l'année. Le PAIRSE proposerait donc aux étudiants deux sources de points :
+l'année. Le PFH proposerait donc aux étudiants deux sources de points :
 - des défis hebdomadaires, de difficulté, de nature et dans des domaines variables
 - des événements ponctuels : hackatons, CTF, courses de drone... L'imagination
   est la seule limite, d'autant qu'il est possible de collaborer avec les
@@ -49,7 +49,7 @@ l'adresse suivante :
 
 **air-esiea@et.esiea.fr**
 
-Précisez bien votre nom et "Candidature PAIRSE" dans l'objet du mail ; vous pouvez
+Précisez bien votre nom et "Candidature PFH" dans l'objet du mail ; vous pouvez
 ensuite détailler le PAIRSE auquel vous voulez candidater, et toutes les
 informations potentiellement utiles, ainsi que toute question que vous auriez à
 son sujet.

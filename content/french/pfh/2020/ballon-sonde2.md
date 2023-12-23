@@ -1,14 +1,14 @@
 ---
-title: "PAIRSE Ballon-sonde II"
+title: "PFH Ballon-sonde II"
 description: "Apprenez à mettre en pratique vos connaissances et cours pour lâcher un ballon à 30km !"
 draft: false
 image: ""
-bg_image: "images/pairse/bs2_banner.png"
+bg_image: "images/pfh/bs2_banner.png"
 layout: "simple"
 ---
 
 ## Description
-Au travers du PAIRSE Ballon-Sonde, nous proposons à nos membres de réaliser une
+Au travers du PFH Ballon-Sonde, nous proposons à nos membres de réaliser une
 nacelle de ballon-sonde, et de l'envoyer à des altitudes supérieures à 30km. 
 
 Le but : récolter des données scientifiques, les analyser grâce à l'aide de
@@ -36,7 +36,7 @@ l'adresse suivante :
 
 **air-esiea@et.esiea.fr**
 
-Précisez bien votre nom et "Candidature PAIRSE" dans l'objet du mail ; vous pouvez
-ensuite détailler le PAIRSE auquel vous voulez candidater, et toutes les
+Précisez bien votre nom et "Candidature PFH" dans l'objet du mail ; vous pouvez
+ensuite détailler le PFH auquel vous voulez candidater, et toutes les
 informations potentiellement utiles, ainsi que toute question que vous auriez à
 son sujet.
