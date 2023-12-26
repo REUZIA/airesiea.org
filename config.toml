@@ -72,7 +72,8 @@ hasChildren = true
   [[Languages.fr.menu.main]]
   parent = "Espace étudiants"
   name = "Newsletter"
-  URL = "newsletter"
+  #URL = "newsletter"
+  URL = "pst"
   weight = 42
 
   [[Languages.fr.menu.main]]
