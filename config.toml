@@ -71,7 +71,13 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Espace étudiants"
-  name = "PSTs / Cap Projet"
+  name = "Newsletter"
+  URL = "newsletter"
+  weight = 42
+
+  [[Languages.fr.menu.main]]
+  parent = "Espace étudiants"
+  name = "PSTs et Cap Projet"
   #URL = "faq"
   URL = "pst"
   weight = 41
