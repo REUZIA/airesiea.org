@@ -1,7 +1,7 @@
 ################################ pricing ################################
 pricing:
   enable : true
-  summary : "Pendant vos 3 premières années d'études, il vous sera demandé de choisir un Projet de Formation Humaine (souvent abrégé PAIRSE). Nous proposons donc de nombreux PAIRSEs que vous pouvez décider de rejoindre.
+  summary : "Pendant vos 3 premières années d'études, il vous sera demandé de choisir un projet à impact RSE (souvent abrégé PAIRSE). Nous proposons donc de nombreux PAIRSEs que vous pouvez décider de rejoindre.
 
 
   Air ESIEA porte ces PAIRSEs financièrement, mais apporte aussi une réelle assistance pédagogique. Elle gère une partie des détails administratifs, mais apporte surtout un __suivi régulier__ effectué par un membre expérimenté de l'association, en plus de suivi pédagogique habituel.
@@ -28,17 +28,17 @@ pricing:
       background: "../images/pfh/scitech.png"
       services:
         - Bonne initiation aux techniques de l'audiovisuel
-        - Acquérez des connaissances extra-scolaires ! 
-        - Abordez des conférenciers \"high-profile\" ! # mentionner réseau etc
+        - Acquérez des connaissances extra-scolaires 
+        - Abordez des conférenciers \"high-profile\"  # mentionner réseau etc
 
     - name : "PAIRSE Communication"
-      content : "Chargé de créer des publication hebdomadaire pour les comptes de l'association !"
+      content : "Créer des publication hebdomadaire pour les comptes de l'association !"
       link : "2023/com"
       background: "../images/pfh/com.png"
       services:
-        - Ascquérir des compétences en rédaction !
-        - Développerez des aptitudes en organisation ! 
-        - Une première approche du monde associati !        
+        - Ascquérir des compétences en rédaction 
+        - Développerez des aptitudes en organisation  
+        - Une première approche du monde associatif !        
 
 #    - name : "PAIRSE Ballon-sonde II"
 #      content : "Apprenez à mettre en pratique vos connaissances et cours pour lâcher un ballon à 30km !"

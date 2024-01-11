@@ -71,14 +71,7 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Espace étudiants"
-  name = "Newsletter"
-  #URL = "newsletter"
-  URL = "pst"
-  weight = 42
-
-  [[Languages.fr.menu.main]]
-  parent = "Espace étudiants"
-  name = "PSTs et Cap Projet"
+  name = "PSTs et Cap Projets"
   #URL = "faq"
   URL = "pst"
   weight = 41
@@ -89,6 +82,7 @@ hasChildren = true
   URL = "pfh"
   weight = 42
 
+
   [[Languages.fr.menu.main]]
   parent = "Espace étudiants"
   name = "Rejoindre l'association"
@@ -96,7 +90,7 @@ hasChildren = true
   URL = "https://www.helloasso.com/associations/association-aerospatiale-air-esiea/adhesions/adhesion-a-air-esiea"
   weight = 43
 
-  # Où nous trovuer géographique + cotiz & co
+  # Où nous trouver géographique + cotiz & co
 
 #  [[Languages.fr.menu.main]]
 #  parent = "Espace étudiants"
@@ -127,7 +121,7 @@ weight = 50
   # choisir de sponsoriser un de nos projets
   # invite à prendre cotnact avec nous dès maintenant pour que nus puissons vous aider à nous soutenir
   # intérêt public
-  
+
 #[[Languages.fr.menu.main]]
 #name = "Nous contacter"
 ##URL = "contact"
@@ -145,6 +139,11 @@ weight = 50
 #  name = "Nos coordonnées"
 #  #URL = "faq"
 #  URL = "wip"
+
+[[Languages.fr.menu.main]]
+name = "Newsletter"
+URL = "newsletter"
+weight = 60
 
 [[Languages.fr.menu.main]]
 name = "Nous contacter"
