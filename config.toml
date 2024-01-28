@@ -1,4 +1,4 @@
-################################# Default configuration ###################
+################################# Default configuration ################### #test
 baseURL = "https://airesiea.org/" # Don't forget the trailing '/' !
 title = "Air ESIEA"
 theme = "airspace-hugo"
