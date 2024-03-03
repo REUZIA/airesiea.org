@@ -21,6 +21,8 @@ portée de tous, qu'il s'agisse de CanSats, de minifusées, de fusées expérime
 d’ailleurs s’inscrire dans le parcours pédagogique étudiant notamment comme PSTs ou Cap Projets. Notre association offre
 un espace convivial aux débutants ainsi qu’aux confirmés pour échanger, collaborer, construire et apprendre.
 
+[En savoir plus.](https://airesiea.org)
+
 ## Retour sur un semestre plein de projets
 
 L’année scolaire 2022-2023 s’est achevée et avec elle de nombreux projets PSTs, Cap Projets et projets d’association.
@@ -33,11 +35,13 @@ Parmi eux :
 - enfin, Cirrus, notre fusée sonde 100% made in ESIEA, développée en 6 mois pour être lancée pendant l’European Rocketry
   Challenge de 2023 (EuRoC’23).
 
+[Voir nos projets.](https://test.airesiea.org/projets)
+
 ## Focus EuRoC
 
 <figure>
   <a href="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg"><img class="img-responsive" src="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg" /></a>
-  <figcaption>Tests d'intégration dans les paddocks à Constancia</figcaption>
+  <figcaption><center>Tests d'intégration dans les paddocks à Constancia</center></figcaption>
 </figure>
 
 Après avoir participé à l’édition fondatrice de EuRoC en 2020 (où l’équipe a remporté le prix Team Spirit), Air ESIEA
@@ -55,6 +59,7 @@ aérospatial de grande envergure à sa conclusion éclatante.
 Nous souhaitons exprimer notre profonde gratitude envers nos partenaires grâce auxquels il nous est possible de réaliser
 tous ces projets, notamment le Groupe ESIEA, Xometry, RS France, Easycomposite et CATS.
 
+![target](/images/newsletter/logo-esiea-blanc-fond-bleu-1.png)
 ![target](/images/newsletter/xometry.png)
 ![target](/images/newsletter/RS%20France.png)
 ![target](/images/newsletter/easycomposite.png)
@@ -67,13 +72,20 @@ C’est grâce à la collaboration précieuse de ces entreprises que nous avons 
 Au programme, trois minifusées et une fusée expérimentale (fusex) qui participeront au C’Space 2024, ainsi qu'un drone autonome réalisé dans le cadre du concours Droneload. Les minifusées sont un bon moyen de s’initier à la conception de fusées mais il est toujours possible de participer à une fusex ou à la prochaine fusée du programme CIRRUS. Vous nous retrouverez aussi sur des évènements de *grande gastronomie* durant l’année.
 
 ## Galerie d'images
+<figure>
 <img class="img-responsive" src="/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg" />
+  <figcaption><center>Le décollage de CIRRUS</center></figcaption>
+</figure>
+
+<figure>
 <img class="img-responsive" src="/images/newsletter/_DSC9333.jpg" />
-<img class="img-responsive" src="/images/newsletter/air-esiea-round-white-2.png" />
-<img class="img-responsive" src="/images/newsletter/air-esiea-text-white-2.png" />
-<img class="img-responsive" src="/images/newsletter/logo-esiea-blanc-fond-bleu-1.png" />
+  <figcaption><center>CIRRUS en route vers le pas de tir après validation du RSO</center></figcaption>
+</figure>
 
 ## Nous suivre 
-<a href="https://www.facebook.com/airesiea/" ><img src="/images/newsletter/facebook.png /></a>
-<a href="https://www.instagram.com/air.esiea.fr/" ><img src="/images/newsletter/insta-19.png /></a>
-<a href="https://www.linkedin.com/company/19086534/" ><img src="/images/newsletter/linkedin.png /></a>
+
+<a href="https://www.facebook.com/airesiea/"><img src="/images/newsletter/facebook.png /></a>
+
+<a href="https://www.instagram.com/air.esiea.fr/"><img src="/images/newsletter/insta-19.png /></a>
+
+<a href="https://www.linkedin.com/company/19086534/"><img src="/images/newsletter/linkedin.png /></a>
