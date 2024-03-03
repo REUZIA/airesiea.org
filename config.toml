@@ -141,14 +141,14 @@ weight = 50
 
 [[Languages.fr.menu.main]]
 name = "Newsletter"
-URL = "newsletter"
+URL = "blog/newsletter_2024/"
 weight = 60
 
 [[Languages.fr.menu.main]]
 name = "Nous contacter"
 URL = "contact"
 #URL = "wip"
-weight = 60
+weight = 70
 
 ## footer Languages.fr.menu
 #[[Languages.fr.menu.footer]]
