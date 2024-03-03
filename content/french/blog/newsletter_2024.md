@@ -40,7 +40,7 @@ Parmi eux :
 ## Focus EuRoC
 
 <figure>
-  <a href="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg"><img class="img-responsive" src="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg" /></a>
+  <a href="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg"><img class="img-responsive" src="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5_min.jpg" /></a>
   <figcaption><center>Tests d'intégration dans les paddocks à Constancia</center></figcaption>
 </figure>
 
@@ -73,19 +73,19 @@ Au programme, trois minifusées et une fusée expérimentale (fusex) qui partici
 
 ## Galerie d'images
 <figure>
-<img class="img-responsive" src="/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg" />
+  <a href="/images/newsletter/DSC02707-D%C3%A9collage_Cirrus.jpg"><img class="img-responsive" src="/images/newsletter/DSC02707-D%C3%A9collage_Cirrus_min.jpg" /></a>
   <figcaption><center>Le décollage de CIRRUS</center></figcaption>
 </figure>
 
 <figure>
-<img class="img-responsive" src="/images/newsletter/_DSC9333.jpg" />
+  <a href="/images/newsletter/_DSC9333.jpg"><img class="img-responsive" src="/images/newsletter/_DSC9333_min.jpg" /></a>
   <figcaption><center>CIRRUS en route vers le pas de tir après validation du RSO</center></figcaption>
 </figure>
 
 ## Nous suivre 
 
+<center>
 <a href="https://www.facebook.com/airesiea/"><img src="/images/newsletter/facebook.png" /></a>
-
 <a href="https://www.instagram.com/air.esiea.fr/"><img src="/images/newsletter/insta-19.png" /></a>
-
 <a href="https://www.linkedin.com/company/19086534/"><img src="/images/newsletter/linkedin.png" /></a>
+</center>
