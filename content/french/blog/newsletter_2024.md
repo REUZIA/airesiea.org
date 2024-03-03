@@ -22,7 +22,7 @@ L’année scolaire 2022-2023 s’est achevée et avec elle de nombreux projets 
 
 ## Focus EuRoC
 
-![target](/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg)
+<img src="/images/newsletter/DSC02431-Travail_paddocks_assemblage_5.jpg" class="img-responsive" />
 
 Après avoir participé à l’édition fondatrice de EuRoC en 2020, où l’équipe a remporté le prix Team Spirit. Air ESIEA marque son retour 3 ans plus tard avec la fusée Cirrus (3m14 et presque 30kg). Lors de cette édition une vingtaine d’équipes, venues de 14 pays différents, se sont retrouvées au Portugal pour présenter leur fusée dans le but d’être autorisée à la lancer depuis le pas de tir.
 C’est au dernier jour d’une semaine d’intense travail que notre fusée décollera atteignant les 255m/s et les 2920m.
