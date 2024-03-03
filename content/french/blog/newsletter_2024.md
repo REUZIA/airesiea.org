@@ -54,10 +54,12 @@ Nous repartons avec des souvenirs impérissables de l'événement, des grands mo
 l'atmosphère stimulante qui régnait en ce mois d'octobre, ainsi qu’avec la satisfaction d'avoir mené un projet
 aérospatial de grande envergure à sa conclusion éclatante.
 
+[Plus d'informations sur CIRRUS.](https://test.airesiea.org/projets/cirrus/)
+
 ## Ils nous ont soutenu
 
 Nous souhaitons exprimer notre profonde gratitude envers nos partenaires grâce auxquels il nous est possible de réaliser
-tous ces projets, notamment le Groupe ESIEA, Xometry, RS France, Easycomposite et CATS.
+tous ces projets, notamment le Groupe ESIEA, Xometry, RS France, Easy Composites et CATS.
 
 ![target](/images/newsletter/logo-esiea-blanc-fond-bleu-1.png)
 ![target](/images/newsletter/xometry.png)
