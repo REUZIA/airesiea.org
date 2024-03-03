@@ -236,3 +236,8 @@ weight = 2
 home = "Accueil"
 # copyright TEST8
 copyright = "Air ESIEA - Association Aérospatiale depuis 1986"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
