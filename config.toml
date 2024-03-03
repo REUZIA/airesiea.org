@@ -54,10 +54,10 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 #URL = "about"
 #weight = 10
 
-#[[Languages.fr.menu.main]]
-#name = "Blog"
-#URL = "blog"
-#weight = 20
+[[Languages.fr.menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 20
 
 [[Languages.fr.menu.main]]
 name = "Nos projets"
