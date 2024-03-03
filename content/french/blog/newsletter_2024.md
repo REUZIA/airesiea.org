@@ -84,8 +84,8 @@ Au programme, trois minifusées et une fusée expérimentale (fusex) qui partici
 
 ## Nous suivre 
 
-<a href="https://www.facebook.com/airesiea/"><img src="/images/newsletter/facebook.png /></a>
+<a href="https://www.facebook.com/airesiea/"><img src="/images/newsletter/facebook.png" /></a>
 
-<a href="https://www.instagram.com/air.esiea.fr/"><img src="/images/newsletter/insta-19.png /></a>
+<a href="https://www.instagram.com/air.esiea.fr/"><img src="/images/newsletter/insta-19.png" /></a>
 
-<a href="https://www.linkedin.com/company/19086534/"><img src="/images/newsletter/linkedin.png /></a>
+<a href="https://www.linkedin.com/company/19086534/"><img src="/images/newsletter/linkedin.png" /></a>
