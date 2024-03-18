@@ -13,6 +13,8 @@ information:
   - label : ""
     info : "Tom ROMAO"
   - label : ""
+    info : "Hugo ALLAIRE"
+  - label : ""
     info : "Clément GASTINNE"
   - label : ""
     info : "Hugo CARDIN"
@@ -30,7 +32,7 @@ information:
     info : "Florence PROSPA"       
 ---
 
-## [Projet] CIRRUS -- La fusée sonde
+## [Projet] Cirrus -- La fusée sonde
 
 La première fusée sonde issue de la gamme CIRRUS est notre projet le plus 
 ambitieux à ce jour. Cette fusée est conçue pour atteindre une apogée de 3000m, 
@@ -43,18 +45,21 @@ comme une cage de Faraday pour les ondes, rien ou presque ne passe, c’est pour
 les antennes utilisées pour la télémétrie et la communication devront être 
 installées sur l’extérieur de la fusée, le long du corps. 
 
-Cirrus devra atterrir de manière autonome en contrôlant sa descente, grâce 
+Cirrus est conçue pour pouvoir atterrir de manière autonome en contrôlant sa descente, grâce 
 à un parapente que nous réaliserons. Cette fonctionnalité assure un retour 
 plus contrôlé de la fusée au sol et servira de base pour les prochaines 
 expériences de récupération. 
 
 Le projet Cirrus répond à des exigences strictes en termes de performance 
 et de budget. Notre objectif est de répondre à ces exigences. Ce projet est 
-une occasion pour nous de tester nos méthodesde fabrication et de 
+une occasion pour nous de tester nos méthodes de fabrication et de 
 conception en servant de test pour la prochaine fusée de la gamme CIRRUS. 
 
 De plus, Cirrus sera dotée d’un espace réservé pour embarquer des expériences 
 secondaires, offrant ainsi une opportunité unique pour tester ces expériences 
 dans des conditions de vol réel. 
 
- 
+ ### Vol inaugural EuRoC 2023
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui id ornare arcu odio ut sem nulla pharetra diam. Neque ornare aenean euismod elementum. Turpis nunc eget lorem dolor sed viverra ipsum. Sed tempus urna et pharetra pharetra. Lectus urna duis convallis convallis tellus id interdum. Egestas erat imperdiet sed euismod nisi porta lorem. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Mi eget mauris pharetra et ultrices neque ornare aenean euismod. Massa tempor nec feugiat nisl pretium fusce.
+
+![Cirrus-en-rampe](https://i.postimg.cc/DzKqh1jR/Cirrus-en-rampe.jpg)

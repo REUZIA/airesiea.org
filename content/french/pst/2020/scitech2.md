@@ -8,9 +8,9 @@ layout: "simple"
 ---
 
 ## Description
-Né il y a 2 ans, le PFH No'Ledge partait d'un constat simple : peu de contenu
+Né il y a 2 ans, le PAIRSE No'Ledge partait d'un constat simple : peu de contenu
 et de conférences étaient proposés aux étudiants, pour s'aguérir en dehors des
-cours. Depuis, ce projet est devenu le PFH Conférences Sci'Tech (Scientifiques &
+cours. Depuis, ce projet est devenu le PAIRSE Conférences Sci'Tech (Scientifiques &
 Techniques), et a pour ambition de proposer aux étudiants de quoi se sustenter
 intellectuellement, en leur permettant de polir leurs compétences et d'adopter une
 perspective différente.
@@ -47,12 +47,12 @@ que tous les étudiants intéressés aient été informés au préalable.
   de commencer à se construire un réseau
 
 ## Comment postuler ?
-Pour postuler à ce PFH et aux autres, ils vous suffit d'envoyer un email à
+Pour postuler à ce PAIRSE et aux autres, ils vous suffit d'envoyer un email à
 l'adresse suivante : 
 
 **air-esiea@et.esiea.fr**
 
-Précisez bien votre nom et "Candidature PFH" dans l'objet du mail ; vous pouvez
-ensuite détailler le PFH auquel vous voulez candidater, et toutes les
+Précisez bien votre nom et "Candidature PAIRSE" dans l'objet du mail ; vous pouvez
+ensuite détailler le PAIRSE auquel vous voulez candidater, et toutes les
 informations potentiellement utiles, ainsi que toute question que vous auriez à
 son sujet.

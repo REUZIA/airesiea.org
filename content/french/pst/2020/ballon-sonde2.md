@@ -8,7 +8,7 @@ layout: "simple"
 ---
 
 ## Description
-Au travers du PFH Ballon-Sonde, nous proposons à nos membres de réaliser une
+Au travers du PAIRSE Ballon-Sonde, nous proposons à nos membres de réaliser une
 nacelle de ballon-sonde, et de l'envoyer à des altitudes supérieures à 30km. 
 
 Le but : récolter des données scientifiques, les analyser grâce à l'aide de
@@ -31,12 +31,12 @@ L'équipe aura donc pour objectif de :
 - des compétences en électronique et dans les systèmes embarqués
 
 ## Comment postuler ?
-Pour postuler à ce PFH et aux autres, ils vous suffit d'envoyer un email à
+Pour postuler à ce PAIRSE et aux autres, ils vous suffit d'envoyer un email à
 l'adresse suivante : 
 
 **air-esiea@et.esiea.fr**
 
-Précisez bien votre nom et "Candidature PFH" dans l'objet du mail ; vous pouvez
-ensuite détailler le PFH auquel vous voulez candidater, et toutes les
+Précisez bien votre nom et "Candidature PAIRSE" dans l'objet du mail ; vous pouvez
+ensuite détailler le PAIRSE auquel vous voulez candidater, et toutes les
 informations potentiellement utiles, ainsi que toute question que vous auriez à
 son sujet.
