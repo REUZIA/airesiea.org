@@ -2,7 +2,7 @@
 title: "ESIEA"
 description: "Grande Ecole d'Ingénieurs CTI"
 draft: false
-image : "images/partenaires/EuZiA/euzia.png"
+image : "images/partenaires/EuZiA/ESIEA_LOGO.png"
 bg_image: "images/partenaires/EuZiA/LeFond.png"
 category: "GOLD"
 information:
