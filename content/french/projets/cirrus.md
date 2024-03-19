@@ -8,58 +8,116 @@ category: "Cirrus"
 information:
   - label : "Date de début"
     info : "Octobre 2021"
+  - label : ""
+    info : "Hugo ALLAIRE"
   - label : "Equipe"
     info : "Anatole BOUDARD"
   - label : ""
-    info : "Tom ROMAO"
-  - label : ""
-    info : "Hugo ALLAIRE"
-  - label : ""
-    info : "Clément GASTINNE"
-  - label : ""
     info : "Hugo CARDIN"
   - label : ""
-    info : "Julien ZHENG"
-  - label : ""
-    info : "Charles PILON"
-  - label : ""
-    info : "Evan THIBAUT"
+    info : "Peter CARRE"
   - label : ""
     info : "Denez FLEGEAU-KIHAL"
   - label : ""
-    info : "Jacques SPONTON" 
+    info : "Clément GASTINNE"
+  - label : ""
+    info : "Sarra JERBI"
+  - label : ""
+    info : "Alexandre MAZZOLA"       
+  - label : ""
+    info : "Pierre MELO"       
+  - label : ""
+    info : "Charles PILON"
   - label : ""
     info : "Florence PROSPA"       
+  - label : ""
+    info : "Alexadre REDAELLI"       
+  - label : ""
+    info : "Tom ROMAO"
+  - label : ""
+    info : "Jacques SPONTON" 
+  - label : ""
+    info : "Evan THIBAUT"
+  - label : ""
+    info : "Julien ZHENG"
 ---
 
 ## [Projet] Cirrus -- La fusée sonde
 
-La première fusée sonde issue de la gamme CIRRUS est notre projet le plus 
-ambitieux à ce jour. Cette fusée est conçue pour atteindre une apogée de 3000m, 
-en faisant d’elle un excellent vecteur de test pour nos expériences. 
+### Objectifs
 
-Notre équipe a développé une structure en composite de fibre de carbone pour 
-garantir une résistance ainsi qu’une légèreté maximale pendant le vol. 
-Le corps de la fusée étant réalisé en composite de fibre de carbone il agit
-comme une cage de Faraday pour les ondes, rien ou presque ne passe, c’est pourquoi 
-les antennes utilisées pour la télémétrie et la communication devront être 
-installées sur l’extérieur de la fusée, le long du corps. 
+La première fusée sonde issue de la gamme CIRRUS est notre projet le plus ambitieux à ce jour. Cette fusée est conçue pour atteindre une apogée de
+3000m, faisant d’elle un excellent vecteur de test pour nos expériences. 
 
-Cirrus est conçue pour pouvoir atterrir de manière autonome en contrôlant sa descente, grâce 
-à un parapente que nous réaliserons. Cette fonctionnalité assure un retour 
-plus contrôlé de la fusée au sol et servira de base pour les prochaines 
-expériences de récupération. 
+Notre équipe a développé une structure en composite de fibre de carbone pour garantir une résistance ainsi qu’une légèreté maximale pendant le vol.
+Cette approche transforme la peau en cage de Faraday bloquant ainsi les ondes radio. C’est pourquoi les antennes utilisées pour la télémétrie et la
+communication doivent être installées sur l’extérieur de la fusée, le long du corps. 
 
-Le projet Cirrus répond à des exigences strictes en termes de performance 
-et de budget. Notre objectif est de répondre à ces exigences. Ce projet est 
-une occasion pour nous de tester nos méthodes de fabrication et de 
-conception en servant de test pour la prochaine fusée de la gamme CIRRUS. 
+Cirrus est la première étape d'un programme visant à développer un système de contrôle de descente autonome, grâce à un parapente que nous
+réaliserons. Cette fonctionnalité assurera un retour plus contrôlé de la fusée au sol. 
 
-De plus, Cirrus sera dotée d’un espace réservé pour embarquer des expériences 
-secondaires, offrant ainsi une opportunité unique pour tester ces expériences 
-dans des conditions de vol réel. 
+Plus globalement, cette première génération de fusée sonde constitue un démonstrateur technique permettant de valider aussi bien nos techniques de
+fabrication composite avancées (enroulement filamentaire entièrement réalisé "in-house") que la conception mécanique générale. L'objectif à moyen
+terme est ainsi de poser et valider la base d'une architecture robuste, fiable et éprouvée qui servira les objectifs de la suite du programme
+(propulsion hybride / liquide, guidage de la retombée par exemple).
 
- ### Vol inaugural EuRoC 2023
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dui id ornare arcu odio ut sem nulla pharetra diam. Neque ornare aenean euismod elementum. Turpis nunc eget lorem dolor sed viverra ipsum. Sed tempus urna et pharetra pharetra. Lectus urna duis convallis convallis tellus id interdum. Egestas erat imperdiet sed euismod nisi porta lorem. Metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel. Mi eget mauris pharetra et ultrices neque ornare aenean euismod. Massa tempor nec feugiat nisl pretium fusce.
+Cirrus embarque aussi un système de stabilisation de roulis par volant d'inertie, facilitant la prise d'images exploitables par un algorithme de
+détection / guidage, et elle est dotée d’un espace réservé pour embarquer des expériences secondaires, offrant ainsi une opportunité unique pour
+tester ces expériences dans des conditions de vol réel. 
 
-![Cirrus-en-rampe](https://i.postimg.cc/DzKqh1jR/Cirrus-en-rampe.jpg)
+Le projet Cirrus est confronté à des exigences strictes en termes de performance et de budget, et représente une réelle montée en termes de
+compétences et d'échelle, constituant ainsi un réel défi.
+
+### Vol inaugural EuRoC 2023
+
+En Octobre 2023, nous avons pu lancer Cirrus lors de notre deuxième participation à la campagne de tir EUROC'23 (European Rocketry Challenge).  Malgré
+de nombreux ennuis logistiques et nuits au sommeil élusif, nous avons pu achever l'intégration et les derniers tests de notre première fusée sonde.
+
+C'est dans l'après-midi du vendredi 15 octobre que la fusée s'est élancée de son rail vers les cieux, suivant une trajectoire stable et atteignant les
+2920 mètres (nous plaçant en très bonne place sur le volet "précision" de la compétitition). 
+
+<figure>
+  <a href="/images/cirrus/AO-EUROC-15_113.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_113.jpg" /></a>
+  <figcaption><center>Le décollage de Cirrus</center></figcaption>
+</figure>
+
+La coiffe s'est ensuite éjectée avec succès, déployant le parachute-frein, réduisant ainsi la vitesse de la fusée à environ 30 m/s. Une anomalie,
+pour l'instant inconnue, a cependant empêché le déploiement du parachute principal. La vitesse d'atterrissage élevée ainsi qu'un signal GPS médiocre
+pendant la retombée ont rendu à ce jour tout effort de récupération vain, malgré plusieurs demi-journées de battues sur la base militaire de Santa
+Margarida.
+
+### Quelques images
+
+<figure>
+  <a href="/images/cirrus/Cirrus-en-rampe.jpg"><img class="img-responsive" src="/images/cirrus/Cirrus-en-rampe.jpg" /></a>
+  <figcaption><center>Cirrus en rampe</center></figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cirrus/AO-EUROC-12_043.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-12_043.jpg" /></a>
+  <figcaption><center>Le pas de tir et les tentes de contrôle mission (base militaire de Santa Margarida)</center></figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cirrus/AO-EUROC-15_051.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_051.jpg" /></a>
+  <figcaption><center>Dernier tests après l'intégration finale</center></figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cirrus/DSC9339.jpg"><img class="img-responsive" src="/images/cirrus/DSC9339.jpg" /></a>
+  <figcaption><center>Dernière validation par le Mission Control Officer</center></figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cirrus/AO-EUROC-15_082.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_082.jpg" /></a>
+  <figcaption><center>En route vers le pas de tir !</center></figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cirrus/AO-EUROC-15_116.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_116.jpg" /></a>
+  <figcaption><center>Une équipe heureuse !</center></figcaption>
+</figure>
+
+<figure>
+  <a href="/images/cirrus/AO-EUROC-15_111.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_111.jpg" /></a>
+</figure>
