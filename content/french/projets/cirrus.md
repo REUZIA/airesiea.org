@@ -77,7 +77,7 @@ C'est dans l'après-midi du vendredi 15 octobre que la fusée s'est élancée de
 2920 mètres (nous plaçant en très bonne place sur le volet "précision" de la compétitition). 
 
 <figure>
-  <a href="/images/cirrus/AO-EUROC-15_113.jpg"><img class="img-responsive" src="/images/newsletter/AO-EUROC-15_113.jpg" /></a>
+  <a href="/images/cirrus/AO-EUROC-15_113.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_113.jpg" /></a>
   <figcaption><center>Le décollage de Cirrus</center></figcaption>
 </figure>
 
@@ -89,35 +89,35 @@ Margarida.
 ### Quelques images
 
 <figure>
-  <a href="/images/cirrus/Cirrus-en-rampe.jpg"><img class="img-responsive" src="/images/newsletter/Cirrus-en-rampe.jpg" /></a>
+  <a href="/images/cirrus/Cirrus-en-rampe.jpg"><img class="img-responsive" src="/images/cirrus/Cirrus-en-rampe.jpg" /></a>
   <figcaption><center>Cirrus en rampe</center></figcaption>
 </figure>
 
 <figure>
-  <a href="/images/cirrus/AO-EUROC-12_043.jpg"><img class="img-responsive" src="/images/newsletter/AO-EUROC-12_043.jpg" /></a>
+  <a href="/images/cirrus/AO-EUROC-12_043.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-12_043.jpg" /></a>
   <figcaption><center>Le pas de tir et les tentes de contrôle mission (base militaire de Santa Margarida)</center></figcaption>
 </figure>
 
 <figure>
-  <a href="/images/cirrus/AO-EUROC-15_051.jpg"><img class="img-responsive" src="/images/newsletter/AO-EUROC-15_051.jpg" /></a>
+  <a href="/images/cirrus/AO-EUROC-15_051.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_051.jpg" /></a>
   <figcaption><center>Dernier tests après l'intégration finale</center></figcaption>
 </figure>
 
 <figure>
-  <a href="/images/cirrus/DSC9339.jpg"><img class="img-responsive" src="/images/newsletter/DSC9339.jpg" /></a>
+  <a href="/images/cirrus/DSC9339.jpg"><img class="img-responsive" src="/images/cirrus/DSC9339.jpg" /></a>
   <figcaption><center>Dernière validation par le Mission Control Officer</center></figcaption>
 </figure>
 
 <figure>
-  <a href="/images/cirrus/AO-EUROC-15_082.jpg"><img class="img-responsive" src="/images/newsletter/AO-EUROC-15_082.jpg" /></a>
+  <a href="/images/cirrus/AO-EUROC-15_082.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_082.jpg" /></a>
   <figcaption><center>En route vers le pas de tir !</center></figcaption>
 </figure>
 
 <figure>
-  <a href="/images/cirrus/AO-EUROC-15_116.jpg"><img class="img-responsive" src="/images/newsletter/AO-EUROC-15_116.jpg" /></a>
+  <a href="/images/cirrus/AO-EUROC-15_116.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_116.jpg" /></a>
   <figcaption><center>Une équipe heureuse !</center></figcaption>
 </figure>
 
 <figure>
-  <a href="/images/cirrus/AO-EUROC-15_111.jpg"><img class="img-responsive" src="/images/newsletter/AO-EUROC-15_111.jpg" /></a>
+  <a href="/images/cirrus/AO-EUROC-15_111.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_111.jpg" /></a>
 </figure>
