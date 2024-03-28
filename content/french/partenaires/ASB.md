@@ -1,6 +1,6 @@
 ---
 title: "ASB Aérospatiale Batteries"
-description: "Fabriquant de batterie thermique"
+description: "Leader mondial des piles et batteries thermiques"
 draft: false
 image : "images/partenaires/ASB/ASB_LOGO.png"
 bg_image: "images/partenaires/ASB/ASB_fond.png"
