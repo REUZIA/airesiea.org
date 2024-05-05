@@ -4,10 +4,10 @@ description: "Leader mondial des piles et batteries thermiques"
 draft: false
 image : "images/partenaires/ASB/ASB_LOGO.png"
 bg_image: "images/partenaires/ASB/ASB_fond.png"
-category: "GOLD"
+category: "SILVER"
 information:
   - label : "Partenariat"
-    info : "GOLD"
+    info : "SILVER"
   - label : "Catégorie"
     info : "Fournisseur"
   - label : "Partenaires depuis"
