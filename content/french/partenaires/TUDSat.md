@@ -15,7 +15,7 @@ information:
 ---
 
 ## A propos de TUDSaT 
-TUDSaT (TU Darmstadt Space Technology) est l'association aérospatiale de l'insitut polytechnique de Darmstadt, en Allemagne. Ils travaillent sur des projets complexes faisant appel à des compétences transversales afin de permettre à leur membres de faire l'expérience du travail dans le domaine du spatial.
+TUDSaT (TU Darmstadt Space Technology) est l'association aérospatiale de l'institut polytechnique de Darmstadt, en Allemagne. Ils travaillent sur des projets complexes faisant appel à des compétences transversales afin de permettre à leurs membres de faire l'expérience du travail dans le domaine du spatial.
 Travaillant actuellement sur la conception et le développement de leur propre CubeSat et fusée expérimentale, ils ont pour objectif de développer la branche aérospatiale des enseignements de leur université et d'établir un lien durable avec les industries et centre de recherche locaux.
 Depuis leur création en 2016, leurs ambitions ont grandies. "TU Darmstadt Satellite Team" qui se contentait de concevoir un CubeSat est devenue "TU Darmstadt Space Technology" pour pouvoir proposer un projet excitant à n'importe quel ferru d'aérospatial. Que vous soyez un étudiant ingénieur, mathématicien, architecte, chimiste, physicien, développeur ou designer, ils ont plein de projets dans les tuyaux alors n'hésitez pas à aller voir [leur site web](https://tudsat.space/).
 
