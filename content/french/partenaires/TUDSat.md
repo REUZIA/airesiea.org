@@ -22,7 +22,7 @@ Depuis leur création en 2016, leurs ambitions ont grandies. "TU Darmstadt Satel
 
 ## Notre histoire ensemble
 
-Rencontrés lors de la campagne de lancement EuRoC 2023, nous avons sympathisé avec nos collègues allemands qui ambitionnait de participer en 2024 avec leur propre fusée. Pour nous le développement de Cumulus, "petite" soeur de Cirrus prendrait au moins deux ans, les allemands nous ont donc proposé d'embarquer un CanSat à bord de leur fusée [Frodo-M](https://tudsat.space/projects/frodo-m).
+Rencontrés lors de la campagne de lancement EuRoC 2023, nous avons sympathisé avec nos collègues allemands qui ambitionnait de participer en 2024 avec leur propre fusée. Pour nous le développement de Cumulus, "petite" soeur de Cirrus prendrait au moins deux ans, les allemands nous ont donc proposé d'embarquer un CanSat à bord de leur fusée [FRoDO-M](https://tudsat.space/projects/frodo-m).
 Depuis nous entretenons des liens étroits avec nos amis Allemands avec qui nous comptons bien poursuivre ce partenariat en 2025 !
 
 
