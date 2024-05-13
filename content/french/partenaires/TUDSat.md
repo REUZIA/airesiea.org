@@ -1,5 +1,5 @@
 ---
-title: "TUDSat"
+title: "TUDSaT"
 description: "Association Aérospatiale Etudiante"
 draft: false
 image : "images/partenaires/TUDSat/TUDSatLogo.png"
@@ -14,34 +14,16 @@ information:
     info : "octobre 2023"
 ---
 
-## Qui est RS Components 
-Rs est un fournisseur mondial omnicanal de solutions de produits et de services pour les concepteurs, les constructeurs, 
-et les responsables de la maintenance ainsi que de la protection des équipements et des opérations industriels.
-
-RS est votre partenaire mondial, déterminé à trouver des solutions aux problèmes de votre entreprise afin que vous puissiez continuer à progresser.
-
-Un partenaire commercial qui allie innovation et inspiration,
-et qui propose des solutions permettant de relever vos défis industriels et d'ingénierie d'aujourd'hui et de demain. 
+## A propos de TUDSaT 
+TUDSaT (TU Darmstadt Space Technology) est l'association aérospatiale de l'insitut polytechnique de Darmstadt, en Allemagne. Ils travaillent sur des projets complexes faisant appel à des compétences transversales afin de permettre à leur membres de faire l'expérience du travail dans le domaine du spatial.
+Travaillant actuellement sur la conception et le développement de leur propre CubeSat et fusée expérimentale, ils ont pour objectif de développer la branche aérospatiale des enseignements de leur université et d'établir un lien durable avec les industries et centre de recherche locaux.
+Depuis leur création en 2016, leurs ambitions ont grandies. "TU Darmstadt Satellite Team" qui se contentait de concevoir un CubeSat est devenue "TU Darmstadt Space Technology" pour pouvoir proposer un projet excitant à n'importe quel ferru d'aérospatial. Que vous soyez un étudiant ingénieur, mathématicien, architecte, chimiste, physicien, développeur ou designer, ils ont plein de projets dans les tuyaux alors n'hésitez pas à aller voir [leur site web](https://tudsat.space/).
 
 
-## Leur Mission
+## Notre histoire ensemble
 
-La mission d'RS est de « réaliser l'extraordinaire pour un monde meilleur ».
-Chez RS, ils encouragent les talents d'aujourd'hui et de demain afin qu'ils exploitent pleinement leur potentiel, 
-contribuent à la résolution de problèmes, et améliorent nos vies à tous.
-
-RS components s'engage à collaborer avec nos clients et fournisseurs afin de commercer de manière responsable et d'identifier des méthodes de travail plus durables.
-
-Rs forme également les gens par le biais de leurs solutions éducatives dans le but d'encourager chacun et chacune à construire un monde meilleur. Des bancs de l'école à ceux de l'université, leurs plans de cours et projets STEM inspirent les ingénieurs de demain.
-
-Nous sommes convaincus qu'il est essentiel de transformer l'impossible en possible, et les « et si » en « pourquoi pas ».
+Rencontrés lors de la campagne de lancement EuRoC 2023, nous avons sympathisé avec nos collègues allemands qui ambitionnait de participer en 2024 avec leur propre fusée. Pour nous le développement de Cumulus, "petite" soeur de Cirrus prendrait au moins deux ans, les allemands nous ont donc proposé d'embarquer un CanSat à bord de leur fusée [Frodo-M](https://tudsat.space/projects/frodo-m).
+Depuis nous entretenons des liens étroits avec nos amis Allemands avec qui nous comptons bien poursuivre ce partenariat en 2025 !
 
 
-
-## Les avantages d'RS 
--Plus de 700 000 produits en stock
--2500 grandes marques
--Livraison le lendemain
--Aucune quantité minimale de commande
--Service personnalisé et assistance technique en plus de la vente en ligne
 
