@@ -2,4 +2,4 @@
 
 Le site Web et le blog d'Air ESIEA
 
-TODO : instructions contribution et dpéloiement
+TODO : instructions contribution et déploiement
