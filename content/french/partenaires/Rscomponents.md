@@ -1,6 +1,6 @@
 ---
 title: "RS Components "
-description: "Fournisseur de matériaux composites avancés"
+description: "Fournisseur de solutions industrielles et électroniques "
 draft: false
 image : "images/partenaires/RS_components/RS logo.png"
 bg_image: "images/partenaires/RS_components/RSfond.png"
