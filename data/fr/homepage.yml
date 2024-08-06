@@ -88,6 +88,10 @@ funfacts:
       image : "images/profile_pics/sophie_poirier.jpg"
       designation : "Responsable de la vie étudiante et associative"
       content : "Depuis que je suis responsable de la vie associative, Air ESIEA sont les seuls qui ont apporté des projets dignes de ce nom"
+    - name : "Thierry Stillace"
+      image : "images/profile_pics/thierry_stillace.png"
+      designation : "Responsable mission sauvegarde au CNES"
+      content : "A bientôt pour un Air ESIEA SA, je continuerai de participer aux qualifications pour le vol."
 
 ############################ call to action ###########################
 cta:
