@@ -14,34 +14,14 @@ information:
     info : "Octobre 2023"
 ---
 
-## Qui est RS Components 
-Rs est un fournisseur mondial omnicanal de solutions de produits et de services pour les concepteurs, les constructeurs, 
-et les responsables de la maintenance ainsi que de la protection des équipements et des opérations industriels.
+## À propos de la SiERA :
+L'association SiERA est l'association de robotique de l'ESTACA. Elle propose aux étudiants d'apprendre de nouvelles compétences en informatique, robotique et en automatique à travers des projets passionnants tout au long de l'année. Ils participent notamment à divers projets et concours que cela soit le Dassault UAV challenge, le Droneload, le Float Lift and Fly Contest ou La Coupe de France de Robotique.
+Si vous êtes intéressés par leurs nombreux projets, n'hésitez pas à aller voir [leur site internet](https://siera.estaca.eu)! 
 
-RS est votre partenaire mondial, déterminé à trouver des solutions aux problèmes de votre entreprise afin que vous puissiez continuer à progresser.
-
-Un partenaire commercial qui allie innovation et inspiration,
-et qui propose des solutions permettant de relever vos défis industriels et d'ingénierie d'aujourd'hui et de demain. 
-
-
-## Leur Mission
-
-La mission d'RS est de « réaliser l'extraordinaire pour un monde meilleur ».
-Chez RS, ils encouragent les talents d'aujourd'hui et de demain afin qu'ils exploitent pleinement leur potentiel, 
-contribuent à la résolution de problèmes, et améliorent nos vies à tous.
-
-RS components s'engage à collaborer avec nos clients et fournisseurs afin de commercer de manière responsable et d'identifier des méthodes de travail plus durables.
-
-Rs forme également les gens par le biais de leurs solutions éducatives dans le but d'encourager chacun et chacune à construire un monde meilleur. Des bancs de l'école à ceux de l'université, leurs plans de cours et projets STEM inspirent les ingénieurs de demain.
-
-Nous sommes convaincus qu'il est essentiel de transformer l'impossible en possible, et les « et si » en « pourquoi pas ».
+## Notre histoire commune : 
+Nous avons décidé de travailler avec SiERA dans le cadre du C'Space en organisant conjointement des campagnes de tirs amateurs visant à l'élaboration d'un ordinateur de vol modulaire. La série des fusées SuS s'est terminée avec SuS-7 dont l'ordinateur de vol sera perfectionné puis réemployé dans la minifusée Mnemonus pour le C'Space 2024.
 
 
 
-## Les avantages d'RS 
--Plus de 700 000 produits en stock
--2500 grandes marques
--Livraison le lendemain
--Aucune quantité minimale de commande
--Service personnalisé et assistance technique en plus de la vente en ligne
+
 

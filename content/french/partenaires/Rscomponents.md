@@ -1,6 +1,6 @@
 ---
 title: "RS Components "
-description: "Fournisseur de matériaux composites avancés"
+description: "Fournisseur de solutions industrielles et électroniques "
 draft: false
 image : "images/partenaires/RS_components/RS logo.png"
 bg_image: "images/partenaires/RS_components/RSfond.png"
@@ -40,8 +40,12 @@ Nous sommes convaincus qu'il est essentiel de transformer l'impossible en possib
 
 ## Les avantages d'RS 
 -Plus de 700 000 produits en stock
+
 -2500 grandes marques
+
 -Livraison le lendemain
+
 -Aucune quantité minimale de commande
+
 -Service personnalisé et assistance technique en plus de la vente en ligne
 
