@@ -1,5 +1,5 @@
 ---
-title: "Ethuds"
+title: "Ethus"
 description: "Une fusée d'initiation"
 draft: false
 image : "images/projets/ethus/ethus.jpg"
