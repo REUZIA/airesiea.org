@@ -3,25 +3,25 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "L'association aérospatiale du Groupe ESIEA"
-  content : "Fusées expérimentales, drones, aérospatial, vulgarisation, astronomie...
+  title : "L'association aérospatiale créatrice de vocations"
+  content : "Fusées expérimentales, drones, aérospatiale, vulgarisation, astronomie...
 
 
-  Mais surtout, des promotions d'élèves ingénieurs passionnés depuis 1986 !"
+  Mais surtout, des jeunes, des étudiants et des bénévoles passionnés depuis 1986 !"
   button:
     enable : enable
-    label : "Rejoignez-nous !"
+    label : "Rejoignez l'aventure !"
     link : "https://www.helloasso.com/associations/association-aerospatiale-air-esiea/adhesions/adhesion-a-air-esiea"
 
 ############################# About #################################
 about:
   enable : true
   title : "Qui sommes-nous ?"
-  description : "Fondée en 1986, Air ESIEA est la plus ancienne association technique du Groupe ESIEA, et la 2e plus ancienne association aérospatiale étudiante française."
-  content : "Animés d'une passion commune pour les disciplines techniques et la science (aérospatial, astronomie ou aéromodélisme), les membres d'Air ESIEA constituent une communauté soudée d'étudiants et d'alumni qui oeuvrent dans une multitude de domaines avec des activités créatrices de vocations et d'ouverture. 
+  description : "Fondée en 1986 par Phillipe Limantour, Air ESIEA est la 2e plus ancienne association aérospatiale étudiante française encore en activité."
+  content : "Animés d'une passion commune pour les disciplines techniques et la science (aérospatial, astronomie ou aéromodélisme), les membres d'Air ESIEA constituent une communauté soudée de jeunes, d'étudiants et de bénévoles qui oeuvrent dans une multitude de domaines avec des activités créatrices de vocations et d'ouverture. 
 
 
-Tous les étudiants du Groupe ESIEA peuvent rejoindre l'association, s'associer aux projets existants, ou même en créer de nouveaux. Nous avons toujours eu la conviction qu'un étudiant utile et compétent est un étudiant qui va plus loin, et c'est pourquoi trois points sont restés au coeur de notre démarche depuis plus de 35 ans : **faire, apprendre et innover**. "
+Tous le monde peut rejoindre l'association qui propose des activités en **région parisienne** et **orléanaise**, s'associer aux projets existants, ou même en créer de nouveaux. Nous avons toujours eu la conviction qu'un individu motivé et passionné est un individu qui va plus loin, et c'est pourquoi trois points sont restés au coeur de notre démarche depuis plus de 38 ans : **faire, apprendre et innover**. "
   image : "images/qui-sommes-nous.jpg"
 
 
@@ -62,7 +62,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-trophy" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Lancements de fusée"
-      count : "24"
+      count : "28"
       
     # funfacts item loop
     - icon : "ion-social-euro-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -88,6 +88,10 @@ funfacts:
       image : "images/profile_pics/sophie_poirier.jpg"
       designation : "Responsable de la vie étudiante et associative"
       content : "Depuis que je suis responsable de la vie associative, Air ESIEA sont les seuls qui ont apporté des projets dignes de ce nom"
+    - name : "Thierry Stillace"
+      image : "images/profile_pics/thierry_stillace.png"
+      designation : "Responsable mission sauvegarde au CNES"
+      content : "A bientôt pour un Air ESIEA SA, je continuerai de participer aux qualifications pour le vol."
 
 ############################ call to action ###########################
 cta:

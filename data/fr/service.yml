@@ -80,7 +80,7 @@ service:
     # service item loop
     - icon : ion-earth 
       name: Campagnes de tir
-      content: "Pour lancer nos projets, nos équipes se déplacent aux quatre coins de l'Europe et collaborent avec le CNES, l'ESA, et des dizaines d'équipes européennes."
+      content: "Pour lancer nos projets, nos équipes se déplacent aux quatre coins de la France (Orléans, Tarbes, Saclay) et collaborent avec le CNES, l'ESA, et des dizaines d'équipes européennes."
       
 ############################# call to action #################################
 cta:
