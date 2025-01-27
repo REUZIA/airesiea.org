@@ -121,3 +121,8 @@ Margarida.
 <figure>
   <a href="/images/cirrus/AO-EUROC-15_111.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_111.jpg" /></a>
 </figure>
+
+<figure>
+  <a href="/images/cirrus/cirrus_team.jpg"><img class="img-responsive" src="/images/cirrus/cirrus_team.jpg" /></a>
+  <figcaption><center>Une partie de l'équipe Cirrus devant l'ESIEA</center></figcaption>
+</figure>
