@@ -115,11 +115,12 @@ Margarida.
 
 <figure>
   <a href="/images/cirrus/AO-EUROC-15_116.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_116.jpg" /></a>
-  <figcaption><center>Une équipe heureuse !</center></figcaption>
+  <figcaption><center>Une équipe heureuse...</center></figcaption>
 </figure>
 
 <figure>
   <a href="/images/cirrus/AO-EUROC-15_111.jpg"><img class="img-responsive" src="/images/cirrus/AO-EUROC-15_111.jpg" /></a>
+  <figcaption><center>qui savoure le fruit de son effort !</center></figcaption>
 </figure>
 
 <figure>
