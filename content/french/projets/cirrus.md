@@ -73,7 +73,7 @@ compétences et d'échelle, constituant ainsi un réel défi.
 En Octobre 2023, nous avons pu lancer Cirrus lors de notre deuxième participation à la campagne de tir EUROC'23 (European Rocketry Challenge).  Malgré
 de nombreux ennuis logistiques et nuits au sommeil élusif, nous avons pu achever l'intégration et les derniers tests de notre première fusée sonde.
 
-<figure><iframe src="https://www.youtube.com/embed/1o_6G1VSAmw?si=lv8w1cEf92KigNfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></figure>
+<div style="display: flex; justify-content: center;"><iframe style="width: 100% !important;" src="https://www.youtube.com/embed/1o_6G1VSAmw?si=lv8w1cEf92KigNfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 C'est dans l'après-midi du vendredi 15 octobre que la fusée s'est élancée de son rail vers les cieux, suivant une trajectoire stable et atteignant les
 2920 mètres (nous plaçant en très bonne place sur le volet "précision" de la compétitition). 
