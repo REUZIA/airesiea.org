@@ -4,9 +4,9 @@ date: 2025-04-05T11:07:10+06:00
 author: Xan
 image: "images/newsletter/atelier_gaite.jpg"
 bg_image: "images/newsletter/atelier_gaite.jpg"
-categories: ["L'équipe"]
-tags: ["CIRRUS", "REUZIA", "Alumni"]
-description: "Un premier rendez-vous réussi !"
+categories: ["Evènements"]
+tags: ["Programme Cirrus", "REUZIA", "Alumni"]
+description: "Un rendez-vous réussi !"
 draft: false
 type: "post"
 ---
@@ -28,7 +28,13 @@ un espace convivial aux débutants ainsi qu’aux confirmés pour échanger, col
 ## Nous suivre 
 
 <center>
-<a href="https://www.facebook.com/airesiea/"><img src="/images/newsletter/facebook.png" /></a>
-<a href="https://www.instagram.com/air.esiea.fr/"><img src="/images/newsletter/insta-19.png" /></a>
-<a href="https://www.linkedin.com/company/19086534/"><img src="/images/newsletter/linkedin.png" /></a>
+  <a href="https://www.facebook.com/airesiea/" style="margin-right: 10px;">
+    <img src="/images/newsletter/facebook.png" />
+  </a>
+  <a href="https://www.instagram.com/air.esiea.fr/" style="margin-right: 10px;">
+    <img src="/images/newsletter/insta-19.png" />
+  </a>
+  <a href="https://www.linkedin.com/company/19086534/">
+    <img src="/images/newsletter/linkedin.png" />
+  </a>
 </center>
