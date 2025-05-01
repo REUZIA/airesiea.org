@@ -20,6 +20,9 @@ D'autres cycles de polymérisation à plus haute température sont cependant pos
 <p style="text-align:center;">Autoclave de polymérisation</p>
 
 
+![](/images/newsletter/easycomposite.png)
+
+
 ## Les premières pierres à l'édifice 
 
 Après avoir pris connaissance des projets de l'association, les membres ont décidé de se tourner vers le projet d'**étuve de polymérisation**, nécessaire à Air ESIEA pour produire des pièces composites encore plus résistantes. Pour sa prochaine rencontre, Reuzia s'est fixé comme objectif d'établir un premier cahier des charges ainsi qu'une liste du matériel nécessaire, lequel devra ensuite être récupéré autant que possible ; le reste devra être acheté.
