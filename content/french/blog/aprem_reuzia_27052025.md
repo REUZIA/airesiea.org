@@ -9,7 +9,6 @@ tags: ["Programme Cirrus", "REUZIA", "Alumni", Etuve]
 description: "Un projet qui se planifie..."
 draft: false
 type: "post"
-layout: "simple"
 ---
 
 ## Une machine pour encore améliorer nos composites
@@ -18,7 +17,7 @@ Les tubes composites d'Air ESIEA, qu'ils soient issus d'un enroulement de tissus
 D'autres cycles de polymérisation à plus haute température sont cependant possibles, ceux-çi diminuent le temps nécessaire avant l'usinage ou le stockage plus commode des tubes structurels ou simples peau des fusées tout en améliorant de surcroît les performances physiques des tubes produits.
 
 ![target](/images/blog/autoclave.jpg)
-*Autoclave de polymérisation*
+<p style="text-align:center;">Autoclave de polymérisation</p>
 
 
 ## Les premières pierres à l'édifice 
