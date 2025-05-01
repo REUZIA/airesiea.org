@@ -2,8 +2,8 @@
 title: "L'étuve de polymérisation"
 date: 2025-04-27T11:07:10+06:00
 author: Xan
-image: "images/blog/autoclave.jpg"
-bg_image: " "
+image: "images/newsletter/atelier-gaité.jpg"
+bg_image: "images/newsletter/atelier-gaité.jpg""
 categories: ["Evènements"]
 tags: ["Programme Cirrus", "REUZIA", "Alumni", Etuve]
 description: "Un projet qui se planifie..."
