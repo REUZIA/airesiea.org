@@ -24,11 +24,10 @@ D'autres cycles de polymérisation à plus haute température sont cependant pos
 
 ## Les premières pierres à l'édifice 
 
-Après avoir pris connaissance des projets de l'association, les membres ont décidé de se tourner vers le projet d'**étuve de polymérisation**, nécessaire à Air ESIEA pour produire des pièces composites encore plus résistantes. Pour sa prochaine rencontre, Reuzia s'est fixé comme objectif d'établir un premier cahier des charges ainsi qu'une liste du matériel nécessaire, lequel devra ensuite être récupéré autant que possible ; le reste devra être acheté.
+Première étape d'un projet, la budgétisation et la création des plans. C'est un chantier amorçé avec l'établissement de la liste du matériel nécessaire qui nous permettra d'établir un budget au plus juste ainsi que de visualiser les éléments les plus chers qui devront faire l'objet d'une attention particulière de la part de l'équipe dans l'optique d'une récupération. 
+D'ici à la prochaine fois une spécification des besoins sera rédigée, la liste du matériel nécessaire terminée et le budget maximal fixé ! Un programme chargé pour un projet très utile à Air ESIEA.
 
-Rendez-vous fin avril pour la prochaine session !
-
-
+Rendez-vous fin mai pour d'autres nouvelles du projet !
 
 
 ## Nous suivre 
