@@ -20,7 +20,13 @@ D'autres cycles de polymérisation à plus haute température sont cependant pos
 <p style="text-align:center;">Autoclave de polymérisation</p>
 
 
+
+
+
 ![](/images/newsletter/easycomposite.png)
+
+
+![](/images/newsletter/atelier_gaite.jpg)
 
 
 ## Les premières pierres à l'édifice 
