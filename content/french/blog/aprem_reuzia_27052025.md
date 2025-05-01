@@ -16,10 +16,8 @@ type: "post"
 Les tubes composites d'Air ESIEA, qu'ils soient issus d'un enroulement de tissus sergé ou de filament, ont besoin de suivre un cycle de polymérisation spécifique avant d'atteindre leurs caractéristiques mécaniques finales. Dans la plupart des cas le cycle à température ambiante prends près de 2 semaines complètes. 2 semaines pendant lesquelles le tube continue d'être plastique et qu'il doit donc être laissé sur son moule, ne pas être usiné et stocké à l'horizontal afin d'éviter toute flèche.
 D'autres cycles de polymérisation à plus haute température sont cependant possibles, ceux-çi diminuent le temps nécessaire avant l'usinage ou le stockage plus commode des tubes structurels ou simples peau des fusées tout en améliorant de surcroît les performances physiques des tubes produits.
 
-<figure class="image">
-  <img src="{{/images/blog/autoclave.jpg}}" alt="{{Autoclave de polymérisation}}">
-  <figcaption>{{ include.description }}</figcaption>
-</figure>
+![target](/images/blog/autoclave.jpg)
+*Autoclave de polymérisation*
 
 
 ## Les premières pierres à l'édifice 
