@@ -9,6 +9,7 @@ tags: ["Programme Cirrus", "REUZIA", "Alumni", Etuve]
 description: "Un projet qui se planifie..."
 draft: false
 type: "post"
+layout: "simple"
 ---
 
 ## Une machine pour encore améliorer nos composites
