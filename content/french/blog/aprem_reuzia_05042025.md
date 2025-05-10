@@ -13,15 +13,15 @@ type: "post"
 
 ## Reuzia : un envol collectif
 
-Le programme CIRRUS se renforce grâce à une après-midi riche en échanges et en idées. Pour la première fois depuis sa création, les membres de Reuzia — l'association des anciens d’Air ESIEA — se sont réunis officiellement dans l’espace coworking des Ateliers Gaîté à Paris.
+Le programme CIRRUS se renforce grâce à un après-midi riche en échanges et en idées. Pour la première fois depuis sa création, les membres de Reuzia — l'association des anciens d’Air ESIEA — se sont réunis officiellement dans l’espace coworking des Ateliers Gaîté à Paris.
 
 Autour de boissons fraîches et des assiettes garnies, cette rencontre a permis aux alumni de renouer avec Air ESIEA, de découvrir les évolutions du programme de R&D CIRRUS et de discuter des perspectives d’avenir. Ensemble, ils ont identifié des pistes concrètes pour prêter main forte à l’association dans la conception et le développement de **Cumulus**, la prochaine fusée sonde d’Air ESIEA.
 
-Au programme : remue-méninge sur les projets, conseils en gestion de projet, échanges sur les nouvelles pratiques de l’industrie et surtout, une volonté commune d’accompagner la génération actuelle dans ce projet ambitieux.
+Au programme : remue-méninges sur les projets, conseils en gestion de projet, échanges sur les nouvelles pratiques de l’industrie et surtout, une volonté commune d’accompagner la génération actuelle dans ce projet ambitieux.
 
 Cette initiative marque une nouvelle étape dans le rapprochement entre Air ESIEA et ses anciens membres, avec pour objectif de faire du programme CIRRUS un pilier durable de l'activité associative qui nous unit.
 
-[Découvrir le programme CIRRUS.](https://www.youtube.com/watch?v=FClWNBF3nd0)
+[Découvrir le programme CIRRUS en vidéo.](https://www.youtube.com/watch?v=FClWNBF3nd0)
 
 
 ## Les prochaines étapes ?
