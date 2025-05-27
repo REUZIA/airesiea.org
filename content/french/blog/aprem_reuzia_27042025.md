@@ -1,5 +1,5 @@
 ---
-title: "L'étuve de polymérisation"
+title: "Un \"BOM\" pour les gouverner tous !"
 date: 2025-04-27T11:07:10+06:00
 author: Xan
 image: "images/blog/atelier_gaite_2.jpg"

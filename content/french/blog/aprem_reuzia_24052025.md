@@ -1,33 +1,33 @@
 ---
-title: "L'étuve de polymérisation"
+title: "Un \"BOM\" pour les gouverner tous !"
 date: 2025-05-24T11:07:10+06:00
 author: Xan
 image: "images/blog/aprem_reuzia_3.jpg"
 bg_image: "images/blog/aprem_reuzia_3.jpg"
 categories: ["Evènements"]
 tags: ["Programme Cirrus", "REUZIA", "Alumni", Etuve]
-description: "Un projet qui se planifie..."
+description: "Et une budgétisation au plus juste..."
 draft: false
 type: "post"
 ---
 
-## Une machine pour encore améliorer nos composites
+## Des composants simple pour une machine prête rapidement
 
-Les tubes composites d'Air ESIEA, qu'ils soient issus d'un enroulement de tissus sergés ou filamentaire, ont besoin de suivre un cycle de polymérisation spécifique avant d'atteindre leurs caractéristiques mécaniques finales. Dans la plupart des cas, le cycle à température ambiante prend près de 2 semaines complètes. 2 semaines pendant lesquelles le tube continue d'être plastique et qu'il doit donc être laissé sur son moule, ne pas être usiné et stocké à l'horizontal afin d'éviter toute flèche.
-D'autres cycles de polymérisation à plus haute température sont cependant possibles, ceux-ci diminuent le temps nécessaire avant l'usinage ou le stockage plus commode des tubes structurels ou simples peau des fusées, tout en améliorant de surcroît les performances physiques des tubes produits.
+La conception d'une machine comme une étuve de polymérisation que l'on a trop souvent tendance à réduire à un "gros four" n'est simple que d'apparence. Air ESIEA ne possédant pas de locaux de travail pérenne, la machine se doit d'être transportable et donc démontable. Cette contrainte nous impose des défi d'étanchéité pour l'éfficacité énergétique, de rigidité de l'ensemble et bien sûr, d'assemblage. 
+Mais ce n'est pas tout! Afin de garantir la sécurité de l'utilisateur, la machine va être conçu puis réalisée en suivant un certain nombre de normes reconnues dans l'UE. La démarche est clair, sans nécessairement la faire certifier, la machine doit être certifiable. La sécurité des opérateurs à chaque instant est primordiale et cette attention à chaque détail produit souvent un résultat de plus haute qualité *in fine*.
+Avec son prix estimé, qui reste contenu, dans les 500€, Air ESIEA pourra bientôt profiter de cette toute nouvelle capacité en terme de manufacture de matériaux composites. Les premières commandes sont parties, il ne reste plus qu'a attendre...
 
 <figure>
-  <a href="/images/blog/autoclave.jpg"><img class="img-responsive" src="/images/blog/autoclave.jpg" /></a>
-  <figcaption><center>Autoclave de polymérisation professionnelle</center></figcaption>
+  <a href="/images/blog/bom.jpg"><img class="img-responsive" src="/images/blog/bom.jpg" /></a>
+  <figcaption><center>Capture d'écran du bilan matériel</center></figcaption>
 </figure>
 
 
-## Les premières pierres à l'édifice 
+## L'etuve de polymérisation, à l'épreuve du temps ? 
 
-Première étape d'un projet, la budgétisation et la création des plans. C'est un chantier amorcé avec l'établissement de la liste du matériel nécessaire qui nous permettra d'établir un budget au plus juste, ainsi que de visualiser les éléments les plus chers qui devront faire l'objet d'une attention particulière de la part de l'équipe dans l'optique d'une récupération. 
-D'ici à la prochaine fois, une spécification des besoins sera rédigée, la liste du matériel nécessaire terminée et le budget maximal fixé ! Un programme chargé pour un projet très utile à Air ESIEA.
+Déjà pensée avec le futur en tête, l'étuve...
 
-Rendez-vous fin mai pour d'autres nouvelles du projet !
+On se revoit fin juin pour suivre les avancées du projet !
 
 
 ## Nous suivre 
