@@ -25,7 +25,7 @@ Avec son prix estimé, qui reste contenu, dans les 500€, Air ESIEA pourra bien
 
 ## L'etuve de polymérisation, à l'épreuve du temps ? 
 
-Déjà pensée avec le futur en tête, l'étuve...
+Déjà pensée avec le futur en tête, l'étuve est faite pour pouvoir s'adapter aux besoins changeants des équipes d'Air ESIEA. Ainsi, bien qu'elle soit en mesure de faire polymériser des tubes de 2m elle est encore rallongeable et peut facilement évoluer pour permettre à des tubes ou autres pièces plus larges de bénéficier d'un traitement thermique adéquat. Les fonctions de suivi de la température et d'ajustement en direct permetteront aussi le développement de courbes de chauffes "personalisées" que nous découvrirons probablement de façon empirique selon les conditions de température, d'humidité et le matériel utilisé.
 
 On se revoit fin juin pour suivre les avancées du projet !
 
