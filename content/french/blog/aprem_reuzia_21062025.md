@@ -1,0 +1,45 @@
+---
+title: "Quel avenir pour le modèle du Hacker-Space selon Air ESIEA ?"
+date: 2025-06-21T11:07:10+06:00
+author: Xan
+image: "images/blog/aprem_reuzia_4.jpg"
+bg_image: "images/blog/aprem_reuzia_4.jpg"
+categories: ["Gouvernance"]
+tags: ["Soutien", "REUZIA", "Alumni"]
+description: "Une structure encore fragile face à un défi de taille."
+draft: false
+type: "post"
+---
+
+## Des composants simples pour une machine prête rapidement
+
+La conception d'une machine comme une étuve de polymérisation, que l'on a trop souvent tendance à réduire à un "gros four", n'est simple que d'apparence. Air ESIEA ne possédant pas de locaux de travail pérenne, la machine se doit d'être transportable et donc démontable. Cette contrainte nous impose des défis d'étanchéité pour l'efficacité énergétique, de rigidité de l'ensemble et bien sûr, d'assemblage. 
+Mais ce n'est pas tout! Afin de garantir la sécurité de l'utilisateur, la machine va être conçue puis réalisée en suivant un certain nombre de normes reconnues dans l'UE. La démarche est claire, sans nécessairement la faire certifier, la machine doit être certifiable. La sécurité des opérateurs à chaque instant est primordiale, et cette attention à chaque détail produit souvent un résultat de plus haute qualité *in fine*.
+Avec son prix estimé, qui reste contenu, dans les 500€, Air ESIEA pourra bientôt profiter de cette toute nouvelle capacité en terme de manufacture de matériaux composites. Les premières commandes sont parties, il ne reste plus qu'à attendre...
+
+<figure>
+  <a href="/images/blog/bom.jpg"><img class="img-responsive" src="/images/blog/bom.jpg" /></a>
+  <figcaption><center>Capture d'écran du bilan matériel</center></figcaption>
+</figure>
+
+
+## L'étuve de polymérisation, à l'épreuve du temps ? 
+
+L'étuve est déjà pensée pour pouvoir s'adapter aux besoins changeants des équipes d'Air ESIEA. Ainsi, bien qu'elle soit en mesure de faire polymériser des tubes de 2m elle est encore rallongeable et peut facilement évoluer pour permettre à des tubes ou autres pièces plus larges de bénéficier d'un traitement thermique adéquat. Les fonctions de suivi de la température et d'ajustement en direct permettront aussi le développement de courbes de chauffe "personalisées" que nous découvrirons probablement de façon empirique selon les conditions de température, d'humidité et le matériel utilisé.
+
+On se revoit fin juin pour suivre les avancées du projet !
+
+
+## Nous suivre 
+
+<center>
+  <a href="https://www.facebook.com/airesiea/" style="margin-right: 30px;">
+    <img src="/images/newsletter/facebook.png" />
+  </a>
+  <a href="https://www.instagram.com/air.esiea.fr/" style="margin-right: 30px;">
+    <img src="/images/newsletter/insta-19.png" />
+  </a>
+  <a href="https://www.linkedin.com/company/19086534/">
+    <img src="/images/newsletter/linkedin.png" />
+  </a>
+</center>
