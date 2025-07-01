@@ -46,11 +46,28 @@ toutefois floues aujourd'hui et leur poids pourrait bien être décisif dans l'a
 
 Avec la disparition de la notion d'association de la campagne annuelle de "subvention" de l'ESIEA au profit des projets étudiants, le soutien
 pécunnier de l'école est incertain et Air ESIEA n'est pas aujourd'hui en mesure d'assurer tous ses projets d'envergure sans cette aide capitale.
-De plus
+De plus, avec le changement progressif de population étudiante à l'ESIEA, entammé post-Covid, il est difficile de prévoir la popularité et donc
+le nombre de membres qu'Air ESIEA pourra compter dans les années à venir. Sans son local vitrine promis en 2023, sans son HackerSpace, l'intégration
+de nouveaux 1ères années sera moins aisée.
+L'orientation donné à la pédagogie est aussi difficile à deviner. L'Automatique en tant que telle est aujourd'hui devenue presque accessoire dans les cursus
+et l'école mets de plus en plus en avant sa majeure Cyber-Sécurité. Cette promotion se fait au détriment nottamment de la majeure Systèmes Embarqués parmi
+laquelle nous comptons le plus de membres.
+
+Enfin, nous sommes conscient que cette situation est probablement passagère, sa durée et ses effets restent à déterminer mais nous restons optimistes
+quant au fait qu'il sera possible pour Air ESIEA de se retrouver une place digne au sein de cette nouvelle ESIEA.
 
 
 ## Nos pistes...
 
+Ajourd'hui nous envisageons de stocker temporairement le matériel qui nous semble important ou précieux mais non régulièrement nécessaire pour travailler
+dans un tiers-lieux indépendant. Le petit travail pouvant être réalisé au sein de l'établissement y restera et les lieux proposés par l'ESIEA seront utilisés
+comme prévu. Le projets plus imposants devront se faire par itinérance, tantôt chez les uns, tantôt chez les autres. Quant au projets d'envergure, leur
+développement devra être ré-évalué pour permettre un autre mode de fonctionnement.
+
+Dans tout les cas et aujourd'hui plus que jamais, si ce qu'Air ESIEA vous plaît et que vous souhaitez et pouvez soutenir nos activités,
+n'hésitez pas à entrer en contact avec nous, toute aide est la bienvenue.
+
+A très bientôt pour de nouvelles actualités !
 
 ## Nous suivre 
 
