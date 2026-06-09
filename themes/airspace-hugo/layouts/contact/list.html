@@ -51,9 +51,23 @@
       {{ if site.Params.gmap.enable }}
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <div class="google-map">
-            <div class="map" id="map_canvas" data-latitude="{{ site.Params.gmap.map_latitude }}" data-longitude="{{ site.Params.gmap.map_longitude }}" data-marker="{{ site.Params.gmap.map_marker | relURL }}" data-marker-name="{{ site.Title }}"></div>
-          </div>
+          <iframe
+					src="https://cartes.app/?allez=Air ESIEA|n11269924881|2.39296|48.81195#15/48.81062/2.39374"
+					style="
+					width: 36rem;
+					height: 20rem;
+					max-width: 100%;
+					margin: 0 auto;
+					margin-bottom: 5vh;
+					display: block;
+					box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+						rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+
+					background: linear-gradient(white, white) padding-box, linear-gradient(to right, #2988e6, #57bff5) border-box;
+  					border: 0.2rem solid transparent;
+  					border-radius: 0.5rem; ">
+			  
+  		  </iframe>
         </div>
       </div>
       {{ end }}
