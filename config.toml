@@ -166,7 +166,7 @@ author = "Air ESIEA"
 # Contact Information
 mobile = ""
 email = "air-esiea@et.esiea.fr"
-location = "74bis Avenue Maurice Thorez, 94200 Ivry-sur-Seine"
+location = "4 allée Katherine Johnson, 94200 Ivry-sur-Seine"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -215,7 +215,7 @@ link = "https://www.youtube.com/@airesiea2107/"
 
 [[params.social]]
 icon = "ion-social-vimeo-outline"  #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://discord.com/invite/n6sBCMNXP5"
+link = "https://discord.com/invite/nmPj2hC8U8"
 
 ################################ English Language ########################
 [Languages.en]
