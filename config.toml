@@ -38,6 +38,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+link = "plugins/OSM/osm.js"
 
 
 ############################### widgets #################################
@@ -194,6 +196,14 @@ gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYS
 map_latitude = "48.81446481395829"
 map_longitude = "2.378390162794104"
 map_marker = "images/marker.png"
+
+# OpenStreetMap
+[params.osm]
+id="map_canvas"
+data-latitude="48.8119"
+data-longitude="2.3929"
+data-marker="/images/marker.png"
+data-marker-name="Air ESIEA"
 
   
 ############################# social site ########################
