@@ -39,7 +39,7 @@ link = "plugins/shuffle/shuffle.min.js"
 #[[params.plugins.js]]
 #link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
-link = "plugins/OSM/osm.js"
+link = "themes/airspace-hugo/static/plugins/OSM/osm.js"
 
 
 ############################### widgets #################################
