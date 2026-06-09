@@ -36,8 +36,8 @@ link = "plugins/slick/slick.min.js"
 link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/gmap.js"
+#[[params.plugins.js]]
+#link = "plugins/google-map/gmap.js"
 [[params.plugins.js]]
 link = "plugins/OSM/osm.js"
 
