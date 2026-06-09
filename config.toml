@@ -190,12 +190,12 @@ label = "Get A Quote"
 link = "contact"
 
 # google map
-[params.gmap]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "48.81446481395829"
-map_longitude = "2.378390162794104"
-map_marker = "images/marker.png"
+#[params.gmap]
+#enable = true
+#gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+#map_latitude = "48.81446481395829"
+#map_longitude = "2.378390162794104"
+#map_marker = "images/marker.png"
 
 # OpenStreetMap
 [params.osm]
