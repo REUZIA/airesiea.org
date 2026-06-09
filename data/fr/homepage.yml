@@ -62,7 +62,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-trophy" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Lancements de fusée"
-      count : "34"
+      count : "30"
       
     # funfacts item loop
     - icon : "ion-social-euro-outline" #ionicon pack v2 : https://ionicons.com/v2/
