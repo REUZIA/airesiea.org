@@ -38,6 +38,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+#[[params.plugins.js]]
+#link = "themes/airspace-hugo/static/plugins/OSM/osm.js"
 
 
 ############################### widgets #################################
@@ -166,7 +168,7 @@ author = "Air ESIEA"
 # Contact Information
 mobile = ""
 email = "air-esiea@et.esiea.fr"
-location = "74bis Avenue Maurice Thorez, 94200 Ivry-sur-Seine"
+location = "4 allée Katherine Johnson, 94200 Ivry-sur-Seine"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
@@ -195,6 +197,14 @@ map_latitude = "48.81446481395829"
 map_longitude = "2.378390162794104"
 map_marker = "images/marker.png"
 
+# OpenStreetMap
+#[params.osm]
+#id="map_canvas"
+#data-latitude="48.8119"
+#data-longitude="2.3929"
+#data-marker="/images/marker.png"
+#data-marker-name="Air ESIEA"
+
   
 ############################# social site ########################
 [[params.social]]
@@ -215,7 +225,7 @@ link = "https://www.youtube.com/@airesiea2107/"
 
 [[params.social]]
 icon = "ion-social-vimeo-outline"  #ionicon pack v2 : https://ionicons.com/v2/
-link = "https://discord.com/invite/n6sBCMNXP5"
+link = "https://discord.com/invite/nmPj2hC8U8"
 
 ################################ English Language ########################
 [Languages.en]

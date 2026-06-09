@@ -57,12 +57,12 @@ funfacts:
     # funfacts item loop
     - icon : "ion-person-stalker" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Membres"
-      count : "37"
+      count : "53"
       
     # funfacts item loop
     - icon : "ion-trophy" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Lancements de fusée"
-      count : "28"
+      count : "30"
       
     # funfacts item loop
     - icon : "ion-social-euro-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -72,7 +72,7 @@ funfacts:
     # funfacts item loop
     - icon : "ion-android-calendar" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Années d'activité"
-      count : "37"
+      count : "39"
 
   testimonial_slider:
     # testimonial item loop
